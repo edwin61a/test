@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=991888,RESOLUTION=720x576,CODECS="avc1.66.31,mp4a.40.34"
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.nts

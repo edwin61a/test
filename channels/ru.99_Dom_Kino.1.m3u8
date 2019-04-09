@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:-1
+#EXTINF:-1,
+http://88.216.48.14:80/domkino/live.m3u8

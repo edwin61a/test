@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=1409688,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1024x576
+http://v1.proofix.ru/live-tv8/stream1/chunklist.m3u8
