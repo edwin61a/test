@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="ru/glaz.tv/pervyi-kanal.jpg" group-title="Обо всем",Первый канал
 https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy.00.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/rossiya-1.jpg" tvg-id="2" group-title="Обо всем",Россия 1
-http://192.168.0.201/projects/kodi/iptv/channels/ru.02_rossia-1.00.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.00.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/rossiya-1.jpg" tvg-id="2" group-title="Обо всем",Россия 1 HD
 https://livehlsvgtrk.cdnvideo.ru/hls/russia_hd/playlist.m3u8?md5=iZoHuLhDZ4BLIdY9n_EHOA&e=1552758480
 #EXTINF:-1 tvg-logo="ru/glaz.tv/moya-planeta.jpg" group-title="Познавательное",Моя Планета
-http://192.168.0.201/projects/kodi/iptv/channels/ru.03_moyaplaneta.00.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/spas.jpg" group-title="Религия",Спас ТВ
 https://pastebin.com/raw/8uCZjCK4
 ## https://live-spastv.cdnvideo.ru/spastv-publish/spastv.sdp/playlist.m3u8
