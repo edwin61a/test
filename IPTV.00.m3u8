@@ -16,41 +16,41 @@ http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 ## Entertainment
 #EXTINF:-1 tvg-logo="ru/glaz.tv/sts.jpg" group-title="Обо всем",СТС
-http://192.168.0.201/projects/kodi/iptv/channels/ru.11_STS.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.11_STS.0.m3u8
 #EXTINF:-1 tvg-logo="ru/00/telecafe.png" group-title="Развлечения",Телекафе
-http://192.168.0.201/projects/kodi/iptv/channels/ru.12_telekafe.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.12_telekafe.0.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/tv-centr.jpg" group-title="Обо всем",ТВЦ
 http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="ru/glaz.tv/ntv.jpg" group-title="Обо всем",НТВ
-http://192.168.0.201/projects/kodi/iptv/channels/ru.14_NTV.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.0.m3u8
 #EXTINF:-1 tvg-id="300139" tvg-logo="ru/glaz.tv/ntv.jpg" group-title="Эфирные HD",НТВ HD
-http://192.168.0.201/projects/kodi/iptv/channels/ru.14_NTV.HD.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.HD.0.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/ren-tv.jpg" group-title="Обо всем",РЕН ТВ
-http://192.168.0.201/projects/kodi/iptv/channels/ru.15_RenTV.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/ren-tv.jpg" group-title="Обо всем",Рен ТВ International
 http://sc.id-tv.kz/RenTV.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/tnt-online.jpg" group-title="Обо всем",ТНТ
-http://192.168.0.201/projects/kodi/iptv/channels/ru.16_TNT.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.16_TNT.0.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/domashniy.jpg" group-title="Развлечения",Домашний
-http://192.168.0.201/projects/kodi/iptv/channels/ru.17_Domashniy.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/tv-3.jpg" group-title="Кино",ТВ-3
-http://192.168.0.201/projects/kodi/iptv/channels/ru.18_TV-3.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.18_TV-3.0.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/yu-tv.jpg" group-title="Развлечения",Ю
-http://192.168.0.201/projects/kodi/iptv/channels/ru.19_YU.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.19_YU.0.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/che.jpg" group-title="Развлечения",Че
-http://192.168.0.201/projects/kodi/iptv/channels/ru.20_Che.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.20_Che.0.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/pyatyi-kanal.jpg" group-title="Обо всем",Пятый Канал
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_pyatniy-kanal.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatniy-kanal.m3u8
 #EXTINF:-1 tvg-logo="ru/00/otr.png" group-title="Новости",ОТР
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_otr_ru_720p.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.99_otr_ru_720p.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/pyatnica.jpg" group-title="Развлечения",Пятница
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_pyatnitsa.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatnitsa.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/sts-love.jpg" group-title="Развлечения",СТС Love
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_STS-Love.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.99_STS-Love.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz.tv/zvezda.jpg" group-title="Обо всем",Звезда
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_zvezda.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.99_zvezda.m3u8
 #EXTINF:-1 group-title="Обо всем",Супер
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_super.00.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.99_super.00.m3u8
 
 #EXTINF:-1 tvg-logo="ru/glaz.tv/kaleidoskop-tv.png" group-title="Познавательное",Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
