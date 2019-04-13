@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=400000
-http://a3569455780-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b400000.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000
 http://a3569455780-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1600000
