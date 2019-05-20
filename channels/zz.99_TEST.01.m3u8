@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:2
 #EXT-X-TARGETDURATION:-1
 #EXTINF:-1,
-http://meuservicotv.dynu.com:8000/balinhafernando@/ZknliVuZkD/10404
+http://178.252.75.110:4022/udp/224.200.202.156:1234
