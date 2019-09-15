@@ -1,219 +1,177 @@
 #EXTM3U
-## tvguide: 
-#EXTINF:-1 tvg-logo="ru/glaz.tv/pervyi-kanal.jpg" group-title="Обо всем",Первый канал
-https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy.00.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/rossiya-1.jpg" tvg-id="2" group-title="Обо всем",Россия 1
-https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.00.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/rossiya-1.jpg" tvg-id="2" group-title="Обо всем",Россия 1 HD
-https://livehlsvgtrk.cdnvideo.ru/hls/russia_hd/playlist.m3u8?md5=iZoHuLhDZ4BLIdY9n_EHOA&e=1552758480
-#EXTINF:-1 tvg-logo="ru/glaz.tv/moya-planeta.jpg" group-title="Познавательное",Моя Планета
-https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/spas.jpg" group-title="Религия",Спас ТВ
-https://pastebin.com/raw/8uCZjCK4
-## https://live-spastv.cdnvideo.ru/spastv-publish/spastv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz-tv.online/soyuz.png" tvg-id="300006" group-title="Религия",Союз
-http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+## tvguide: http://programtv.ru/xlmtv.xml.gz
 
-## Entertainment
-#EXTINF:-1 tvg-logo="ru/glaz.tv/sts.jpg" group-title="Обо всем",СТС
-https://github.com/edwin61a/test/raw/master/channels/ru.11_STS.0.m3u8
-#EXTINF:-1 tvg-logo="ru/00/telecafe.png" group-title="Развлечения",Телекафе
-https://github.com/edwin61a/test/raw/master/channels/ru.12_telekafe.0.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/tv-centr.jpg" group-title="Обо всем",ТВЦ
-http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="ru/glaz.tv/ntv.jpg" group-title="Обо всем",НТВ
-https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.0.m3u8
-#EXTINF:-1 tvg-id="300139" tvg-logo="ru/glaz.tv/ntv.jpg" group-title="Эфирные HD",НТВ HD
-https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.HD.0.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/ren-tv.jpg" group-title="Обо всем",РЕН ТВ
+#EXTINF:-1 tvg-id="146" tvg-logo="ru/glaz/pervyi-kanal.jpg",Первый канал
+https://pastebin.com/raw/Q9TghrrN
+ 
+#EXTINF:-1 tvg-id="317" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1
+https://pastebin.com/raw/RFmDJmQf
+
+#EXTINF:-1 tvg-id="675" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
+https://pastebin.com/raw/uxz5WPfL
+
+#EXTINF:-1 tvg-id="447" tvg-logo="ru/glaz/spas.jpg",Спас ТВ
+https://pastebin.com/raw/8uCZjCK4
+
+#EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",Союз
+https://pastebin.com/raw/TxkLMk5P
+
+#EXTINF:-1 tvg-id="79" tvg-logo="ru/glaz/sts.jpg",СТС
+https://pastebin.com/raw/DDsXCJjV
+
+#EXTINF:-1 tvg-id="173" tvg-logo="ru/000/telecafe.png",Телекафе
+https://pastebin.com/raw/hSJamMCV
+
+#EXTINF:-1 tvg-id="649" tvg-logo="ru/glaz/tv-centr.jpg",ТВЦ
+https://pastebin.com/raw/t7G2XwYk
+ 
+#EXTINF:-1 tvg-id="162" tvg-logo="ru/glaz/ntv.jpg",НТВ
+https://pastebin.com/raw/BAbbxf0E
+
+#EXTINF:-1 tvg-id="689" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/ren-tv.jpg" group-title="Обо всем",Рен ТВ International
-http://sc.id-tv.kz/RenTV.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/tnt-online.jpg" group-title="Обо всем",ТНТ
+
+#EXTINF:-1 tvg-id="1791" tvg-logo="ru/glaz/tnt-online.jpg",ТНТ
 https://github.com/edwin61a/test/raw/master/channels/ru.16_TNT.0.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/domashniy.jpg" group-title="Развлечения",Домашний
+
+#EXTINF:-1 tvg-id="304" tvg-logo="ru/glaz/domashniy.jpg",Домашний
 https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/tv-3.jpg" group-title="Кино",ТВ-3
+
+#EXTINF:-1 tvg-id="279" tvg-logo="ru/glaz/tv-3.jpg",ТВ-3
 https://github.com/edwin61a/test/raw/master/channels/ru.18_TV-3.0.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/yu-tv.jpg" group-title="Развлечения",Ю
+
+#EXTINF:-1 tvg-id="898" tvg-logo="ru/glaz/yu-tv.jpg",Ю
 https://github.com/edwin61a/test/raw/master/channels/ru.19_YU.0.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/che.jpg" group-title="Развлечения",Че
+
+#EXTINF:-1 tvg-id="1598" tvg-logo="ru/glaz/che.jpg",Че
 https://github.com/edwin61a/test/raw/master/channels/ru.20_Che.0.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/pyatyi-kanal.jpg" group-title="Обо всем",Пятый Канал
+
+#EXTINF:-1 tvg-id="427" tvg-logo="ru/glaz/pyatyi-kanal.jpg",Пятый Канал
 https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatniy-kanal.m3u8
-#EXTINF:-1 tvg-logo="ru/00/otr.png" group-title="Новости",ОТР
-https://github.com/edwin61a/test/raw/master/channels/ru.99_otr_ru_720p.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/pyatnica.jpg" group-title="Развлечения",Пятница
+
+#EXTINF:-1 tvg-id="1000" tvg-logo="ru/000/otr.png",ОТР
+https://github.com/edwin61a/test/raw/master/channels/ru.99_OTR.m3u8
+
+#EXTINF:-1 tvg-id="1003" tvg-logo="ru/glaz/pyatnica.jpg",Пятница
 https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatnitsa.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/sts-love.jpg" group-title="Развлечения",СТС Love
-https://github.com/edwin61a/test/raw/master/channels/ru.99_STS-Love.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/zvezda.jpg" group-title="Обо всем",Звезда
-https://github.com/edwin61a/test/raw/master/channels/ru.99_zvezda.m3u8
-#EXTINF:-1 group-title="Обо всем",Супер
+
+#EXTINF:-1 tvg-id="405" tvg-logo="ru/glaz/zvezda.jpg",Звезда
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1810" tvg-logo="ru/super-1.png" group-title="Обо всем",Супер
 https://github.com/edwin61a/test/raw/master/channels/ru.99_super.00.m3u8
 
-#EXTINF:-1 tvg-logo="ru/glaz.tv/kaleidoskop-tv.png" group-title="Познавательное",Калейдоскоп ТВ
+#EXTINF:-1 tvg-id="1666" tvg-logo="ru/glaz/kaleidoskop-tv.png",Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/rossiya-k.jpg" group-title="Обо всем",Россия Культура
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/rossiya-24.jpg" group-title="Новости",Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist.m3u8
-#EXTINF:-1 tvg-id="1775" tvg-logo="ru/glaz.tv/rtr-planeta.jpg" group-title="Обо всем",РТР Планета
-https://livehlsvgtrk.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/animal-planet.jpg",Animal Planet HD
 
-##
-#EXTINF:-1 tvg-logo="ru/00/russkiy-illyuzion.jpg" group-title="Кино",Русский Иллюзион
-##
-#EXTINF:-1 tvg-logo="ru/00/illyuzion-plus.jpg" group-title="Кино",Иллюзион +
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_Illuzion+.00.m3u8
-#EXTINF:-1 tvg-logo="ru/00/tv1000.png" group-title="Кино",TV1000
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_TV1000.m3u8
-#EXTINF:-1 tvg-logo="ru/fanat.tv/tv1000-action.png" group-title="Кино",TV1000 Action
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_TV1000-Action.m3u8
-#EXTINF:-1 tvg-logo="ru/00/tv1000-russkoe-kino.png" group-title="Кино",TV1000 Русское кино
-http://46.241.65.10:81/udp/239.54.5.112:1234
-#EXTINF:-1 tvg-logo="ru/glaz.tv/mosobl.png" group-title="Новости",Телеканал 360 HD
-http://188.243.71.63:4042/udp/239.239.3.53:5239
-#EXTINF:-1 tvg-logo="ru/glaz.tv/8-kanal-1.png",8 Канал
-http://188.243.71.63:4042/udp/239.239.3.4:5239
-#EXTINF:-1 tvg-logo="ru/glaz.tv/tv-xxi.jpg",TV XXI (TV21)
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_TV21.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/national-geographic.jpg",National Geographic HD
+#EXTINF:-1 tvg-id="187" tvg-logo="ru/glaz/rossiya-k.jpg",Россия Культура
+https://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/chunklist.m3u8
 
-## https://www.nastroykino.ru/
+#EXTINF:-1 tvg-id="1683" tvg-logo="ru/glaz/rossiya-24.jpg",Россия 24
+https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
+#EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
+#EXTINF:-1 tvg-id="127" tvg-logo="ru/000/tv1000.png",TV1000
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000.m3u8
+#EXTINF:-1 tvg-id="125" tvg-logo="ru/fanat/tv1000-action.png",TV1000 Action
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-Action.m3u8
+#EXTINF:-1 tvg-id="267" tvg-logo="ru/000/tv1000-russkoe-kino.png",TV1000 Русское кино
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-RU-Kino.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-logo="ru/glaz/mosobl.png",Телеканал 360 HD
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Telekanal-360.m3u8
+#EXTINF:-1 tvg-id="217" tvg-logo="ru/glaz/8-kanal-1.png",8 Канал
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="309" tvg-logo="ru/glaz/tv-xxi.jpg",TV XXI (TV21)
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
+
 #EXTINF:-1 group-title="Кино",
-#EXTINF:-1 tvg-logo="00/tv.png",Кинопремьера
+# https://www.nastroykino.ru/
+#EXTINF:-1 tvg-id="566" tvg-logo="tv.png",Кинопремьера
 https://cdn.red-media.ru/4562d8d6fcca0524c9891747efbe0268/92878.mp4
-#EXTINF:-1 tvg-logo="ru/00/kinohit.png",Кинохит
-http://176.115.136.45:8080/udp/233.166.172.175:1234
-#EXTINF:-1 tvg-logo="ru/fanat.tv/kinosemya.png",Киносемья
+#EXTINF:-1 tvg-id="542" tvg-logo="ru/000/kinohit.png",Кинохит
 
-#EXTINF:-1 tvg-logo="ru/00/kinomiks.png",Киномикс
-http://178.163.58.100:4022/udp/234.0.0.222:2000
-#EXTINF:-1 tvg-logo="ru/fanat.tv/mujskoe-kino.png",Мужское кино
+#EXTINF:-1 tvg-id="987" tvg-logo="ru/000/kinosemya.png",Киносемья
+
+#EXTINF:-1 tvg-id="644" tvg-logo="ru/000/kinomiks.png",Киномикс
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konomiks.m3u8
+#EXTINF:-1 tvg-id="1584" tvg-logo="ru/000/mujskoe-kino.png",Мужское кино
 http://178.163.58.100:4022/udp/234.0.0.213:2000
-#EXTINF:-1 tvg-logo="ru/00/kinosvidanie.png",Киносвидание
-http://persik.by/stream/2944/263250/10331.m3u8
-#EXTINF:-1 tvg-logo="ru/00/nashe-novoe-kino.png",Наше Новое Кино
+#EXTINF:-1 tvg-id="462" tvg-logo="ru/000/kinosvidanie.png",Киносвидание
 
-#EXTINF:-1 tvg-logo="ru/00/rodnoe-kino.png" group-title="Кино",Родное кино
+#EXTINF:-1 tvg-id="485" tvg-logo="ru/000/nashe-novoe-kino.png",Наше Новое Кино
 
-#EXTINF:-1 tvg-logo="ru/fanat.tv/kinokomediya.png",Кинокомедия
+#EXTINF:-1 tvg-id="12" tvg-logo="ru/rodnoe-kino.png",Родное кино
 
-#EXTINF:-1 tvg-logo="ru/00/indiyskoe-kino.png",Индийское кино
+#EXTINF:-1 tvg-id="821" tvg-logo="ru/000/kinokomediya.png",Кинокомедия
 
-#EXTINF:-1 tvg-logo="ru/00/kinoseriya.png" tvg-id="558",Киносерия
-http://178.163.65.14:8888/udp/234.0.0.119:2000
+#EXTINF:-1 tvg-id="798" tvg-logo="ru/000/indiyskoe-kino.png",Индийское кино
 
-## 
-#EXTINF:-1 tvg-logo="ru/glaz.tv/dom-kino.jpg" group-title="Кино" cache="1000",Дом кино
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_Dom_Kino.0.m3u8
-#EXTINF:-1 tvg-logo="00/tv.png",Дом Кино Премиум HD 
-#EXTINF:-1 tvg-logo="ru/00/MGMHD.png" group-title="Кино",MGM HD
-#EXTINF:-1 tvg-logo="ru/fanat.tv/kino-tv.png" group-title="Кино",Кино ТВ
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_Kino_TV.m3u8
-#EXTINF:-1 tvg-logo="ru/fanat.tv/feniks+-kino.png" group-title="Кино",Феникс+ Кино
+#EXTINF:-1 tvg-id="799" tvg-logo="ru/000/kinoseriya.png",Киносерия
+http://109.248.236.41:4433/udp/238.1.1.57:1234
 
-##
-#EXTINF:-1 tvg-logo="ru/fanat.tv/sankt-peterburg.png" group-title="Новости",Санкт-Петербург
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_spb.m3u8
-#EXTINF:-1 tvg-logo="00/tv.png" group-title="Новости",LIFE78 HD
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_Life-78.m3u8
-#EXTINF:-1 tvg-logo="00/tv.png" tvg-id="1874" group-title="Новости",47 канал
-http://188.243.159.218:81/udp/239.239.3.44:5239
-#EXTINF:-1 tvg-logo="00/tv.png" tvg-id="1794",Русский Детектив
-http://188.243.71.63:4042/udp/239.239.4.19:5239
-#EXTINF:-1 tvg-id="774" tvg-logo="ru/00/First Educational.png",Первый Образовательный
-http://188.242.243.225:81/udp/239.239.3.31:5239
+#EXTINF:-1 group-title="-",
 
-##
-#EXTINF:-1 tvg-logo="ru/glaz.tv/mir.jpg" tvg-id="100010" group-title="Обо всем",Мир HD
+#EXTINF:-1 tvg-id="686" tvg-logo="ru/000/feniks+-kino.png",Феникс+ Кино
+#EXTINF:-1 tvg-id="352" tvg-logo="",Еврокино
+https://github.com/edwin61a/test/raw/master/channels/ru.88_evrokino.00.m3u8
+#EXTINF:-1 tvg-id="690" tvg-logo="ru/glaz/spb.png",Санкт-Петербург
+http://188.243.62.238:81/udp/239.239.3.67:5239
+#EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
+http://94.19.220.104:81/udp/239.239.3.31:5239
+#EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",LIFE78 HD
+http://94.19.220.104:81/udp/239.239.3.68:5239
+#EXTINF:-1 tvg-id="934" tvg-logo="ru/000/MGMHD.png",MGM HD
+#EXTINF:-1 tvg-id="990" tvg-logo="ru/glaz/animal-planet.jpg",Animal Planet HD
+#EXTINF:-1 tvg-id="1398" tvg-logo="ru/glaz/47-kanal.png",47 Канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1800" tvg-logo="ru/glaz/sts-love.jpg",СТС Love
+http://81.177.222.193:4022/udp/232.0.2.48:1234
+
+#EXTINF:-1 tvg-id="994",Русский Бестселлер
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Bestseller.m3u8
+#EXTINF:-1 tvg-id="1570" tvg-logo="ru/000/1465401981_russkiy-detektiv.png",Русский Детектив
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Detektiv.m3u8
+#EXTINF:-1 tvg-id="401",Русский Роман
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
+
+#EXTGRP:Кино
+#EXTINF:-1 tvg-id="1037" tvg-logo="ru/fanat/kino-tv.png",Кино ТВ
+http://188.243.71.63:4042/udp/239.239.4.20:5239
+#EXTINF:-1 tvg-id="834" tvg-logo="ru/glaz/dom-kino.jpg",Дом кино
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Dom_Kino.m3u8
+#EXTINF:-1 tvg-id="1731" tvg-logo="tv.png",Дом Кино Премиум HD 
+
+#EXTINF:-1 tvg-logo="ru/glaz/mir.jpg" tvg-id="726",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/mir.jpg" tvg-id="300133",МИР Premium HD
+#EXTINF:-1 tvg-logo="ru/glaz/mir.jpg" tvg-id="1809",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="ru/glaz.tv/mir.jpg" tvg-id="400009" group-title="Новости",Мир 24 HD
+#EXTINF:-1 tvg-logo="ru/glaz/mir.jpg" tvg-id="1331",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-##
-#EXTINF:-1 tvg-logo="ru/glaz-tv.online/raz-tv.png" tvg-id="300103",Раз ТВ
-http://live-raztv.cdnvideo.ru/raztv/raztv.sdp/playlist.m3u8
-#EXTINF:-1,История
-http://176.192.51.226:1234/udp/233.49.170.151:5000
-#EXTINF:-1,Travel+Adventure HD
-http://176.192.51.226:1234/udp/233.49.170.125:5000
-#EXTINF:-1,Russian Travel Guide HD
-http://176.115.136.45:8080/udp/233.166.172.224:1234
-#EXTINF:-1 tvg-id="300097",Приключения HD
-http://176.115.136.45:8080/udp/233.166.172.225:1234
+#EXTINF:-1 tvg-id="730" tvg-logo="ru/glaz/tro.png" group-title="Развлечения",ТРО Союз (БелРос)
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-id="1396" tvg-logo="ru/glaz/tochka-tv.png" group-title="Развлечения",Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1 tvg-id="331",Приключения HD
 
-# === News RU ===
-#EXTINF:-1 group-title="News",News RU
-#EXTINF:-1 tvg-id="100036",Russia Today
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_RT_News.m3u8
 
-# === Radio RU ===
-#EXTM3U
-#EXTGRP:Radio
-#EXTINF:-1 group-title="Radio",Radio RU
-#EXTINF:-1 radio="true" tvg-logo="ru/glaz-tv.online/Retro-FM.png",РЕТРО FM: 70-Е
-http://retro70.hostingradio.ru:8025/retro70-128.mp3
-#EXTINF:-1 radio="true" tvg-logo="ru/glaz-tv.online/Retro-FM.png",РЕТРО FM: 80-Е
-http://retro80.hostingradio.ru:8025/retro80-128.mp3
-#EXTINF:-1 radio="true" tvg-logo="ru/glaz-tv.online/Retro-FM.png",РЕТРО FM: 90-Е
-http://retro90.hostingradio.ru:8025/retro90-128.mp3
-#EXTINF:-1 radio="true",Европа Плюс R&B
-http://eprnb128server.streamr.ru:8061/eprnb128
-
-# === Radio NL ===
-#EXTINF:-1 group-title="radio",Radio NL
-#EXTINF:-1 radio="true" tvg-logo="nl/radiozenders.fm/qmusic.png",Q-music NL
-http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_live_96.mp3
-#EXTINF:-1 radio="true" tvg-logo="nl/radiozenders.fm/radio-538.png",RADIO538
-http://19983.live.streamtheworld.com/RADIO538.mp3
-#EXTINF:-1 radio="true",Sky Radio 101 FM
-http://20423.live.streamtheworld.com/SKYRADIO.mp3
-#EXTINF:-1 radio="true" tvg-logo="nl/radiozenders.fm/slam-fm.png",SLAM!
-https://20073.live.streamtheworld.com/SLAM_MP3_SC?
-
-# === TEST ===
-# Moskow, Russia
-#   8    52 ms    53 ms    51 ms  85.112.114.12
-#EXTINF:-1 group-title="Кино" channel-id="900",Ultra Cinema 4K
-http://85.112.114.12:8080/ch799/mpegts
 #EXTINF:-1 group-title="Кино",HTM HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="Новости",SOCHI24 HD
-https://live-maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
 
-# === TEST ===
-#EXTINF:-1 group-title="TEST",TEST
-#EXTINF:-1,СТВ (БЕЛАРУСЬ)
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1,TV Pro (С.Петербург)
-http://rtmp.lovedrink.ru/hls/ch1.m3u8
-#EXTINF:-1,БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-logo="",Точка ТВ
-http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
-#EXTINF:-1 tvg-id="528" tvg-logo="",Драйв ТВ
-http://192.168.0.201/projects/kodi/iptv/channels/ru.99_DrayvTV-0.m3u8
-
-# === Scenery ===
+## TV background scenes
 #EXTINF:-1 group-title="Scenery"
 #EXTINF:-1,Fireplace
 https://raw.githubusercontent.com/mhagens/virtualfireplace/master/1920x1080.mp4
 #EXTINF:-1,Campfire by the River
-http://192.168.0.201/media/videos/Campfire.By.The.River.mp4
+https://pastebin.com/raw/bDdrYQSE
 #EXTINF:-1,Aquarium
 
-
-#EXTINF:-1 group-title="TEST"
-#EXTINF:-1,TEST 0
-https://pastebin.com/raw/j5cJ9v46
-#EXTINF:-1,TEST 1
-http://192.168.0.201/projects/kodi/iptv/zz.99_TEST.01.m3u8
-#EXTINF:-1,TEST 2
-http://192.168.0.201/projects/kodi/iptv/zz.99_TEST.02.m3u8
-#EXTINF:-1,TEST 3
-http://192.168.0.201/projects/kodi/iptv/zz.99_TEST.03.m3u8
+#EXTINF:-1 group-title="radio",Radio
+#EXTINF:-1 radio="true" tvg-logo="ru/glaz/Retro-FM.png",РЕТРО FM: 70-Е
+http://retro70.hostingradio.ru:8025/retro70-128.mp3
+#EXTINF:-1 radio="true" tvg-logo="ru/glaz/Retro-FM.png",РЕТРО FM: 80-Е
+http://retro80.hostingradio.ru:8025/retro80-128.mp3
+#EXTINF:-1 radio="true" tvg-logo="ru/glaz/Retro-FM.png",РЕТРО FM: 90-Е
+http://retro90.hostingradio.ru:8025/retro90-128.mp3
