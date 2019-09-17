@@ -1,9 +1,4 @@
 #EXTM3U
-## http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1635447,CODECS="avc1.66.31,mp4a.40.34",RESOLUTION=1024x576
-http://109.201.156.149/tvsoyuz/soyuz/chunklist_w1472336551.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1595450,CODECS="avc1.66.31,mp4a.40.34",RESOLUTION=1024x576
-http://50.7.125.3/tvsoyuz/soyuz/chunklist_w345541392.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1618931,CODECS="avc1.66.31,mp4a.40.34",RESOLUTION=1024x576
-http://50.7.125.3/tvsoyuz/soyuz/chunklist_w1191860717.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1618027,RESOLUTION=1024x576,CODECS="avc1.66.31,mp4a.40.34"
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.tvsoyuz
