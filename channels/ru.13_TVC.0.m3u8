@@ -1,19 +1,5 @@
 #EXTM3U
-## http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=475000
-http://50.7.125.30/tvc-p212/smil:tvc.smil/chunklist_w1058197037_b475000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=884000
-http://50.7.125.30/tvc-p212/smil:tvc.smil/chunklist_w1058197037_b884000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1703000
-http://50.7.125.30/tvc-p212/smil:tvc.smil/chunklist_w1058197037_b1703000.m3u8
-
-#EXTM3U
-## http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1703000
-http://109.201.158.64/tvc-p212/smil:tvc.smil/chunklist_w1114844956_b1703000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=884000
-http://109.201.158.64/tvc-p212/smil:tvc.smil/chunklist_w1114844956_b884000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=475000
-http://109.201.158.64/tvc-p212/smil:tvc.smil/chunklist_w1114844956_b475000.m3u8
+#EXT-X-TARGETDURATION:-1
+#EXTINF:-1,
+http://78.30.254.43:8989/udp/238.1.1.165:1234
