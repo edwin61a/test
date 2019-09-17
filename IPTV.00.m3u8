@@ -2,10 +2,10 @@
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
 #EXTINF:-1 tvg-id="146" tvg-logo="ru/glaz/pervyi-kanal.jpg",Первый канал
-https://pastebin.com/raw/Q9TghrrN
+https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy.00.m3u8
  
 #EXTINF:-1 tvg-id="317" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1
-https://pastebin.com/raw/RFmDJmQf
+https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.00.m3u8
 
 #EXTINF:-1 tvg-id="675" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
 https://pastebin.com/raw/uxz5WPfL
