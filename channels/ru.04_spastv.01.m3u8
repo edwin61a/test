@@ -3,3 +3,9 @@
 #EXT-X-TARGETDURATION:-1
 #EXTINF:-1,
 http://188.242.201.77:4022/udp/239.239.2.67:5239
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1763139,RESOLUTION=720x576,CODECS="avc1.66.31,mp4a.40.34"
+https://live-spastv.cdnvideo.ru/spastv-publish/spastv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.spastv
+
