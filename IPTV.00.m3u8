@@ -67,6 +67,9 @@ http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="ru/glaz/rossiya-k.jpg",Россия Культура
 https://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="0",Россия РТР
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
+
 #EXTINF:-1 tvg-id="1683" tvg-logo="ru/glaz/rossiya-24.jpg",Россия 24
 https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist.m3u8
 
