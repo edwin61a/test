@@ -71,7 +71,7 @@ https://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/chunklist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
 
 #EXTINF:-1 tvg-id="1683" tvg-logo="ru/glaz/rossiya-24.jpg",Россия 24
-https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist.m3u8
+https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 
 #EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
 #EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
@@ -120,7 +120,7 @@ http://109.248.236.41:4433/udp/238.1.1.57:1234
 #EXTINF:-1 tvg-id="352" tvg-logo="",Еврокино
 https://github.com/edwin61a/test/raw/master/channels/ru.88_evrokino.00.m3u8
 #EXTINF:-1 tvg-id="690" tvg-logo="ru/glaz/spb.png",Санкт-Петербург
-http://188.243.62.238:81/udp/239.239.3.67:5239
+https://github.com/edwin61a/test/raw/master/channels/ru.99_spb.m3u8
 #EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
 http://94.19.220.104:81/udp/239.239.3.31:5239
 #EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",LIFE78 HD
@@ -141,7 +141,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
 
 #EXTGRP:Кино
 #EXTINF:-1 tvg-id="1037" tvg-logo="ru/fanat/kino-tv.png",Кино ТВ
-http://188.243.71.63:4042/udp/239.239.4.20:5239
+https://github.com/edwin61a/test/raw/master/channels/ru.60_kino_tv.00.m3u8
 #EXTINF:-1 tvg-id="834" tvg-logo="ru/glaz/dom-kino.jpg",Дом кино
 https://github.com/edwin61a/test/raw/master/channels/ru.99_Dom_Kino.m3u8
 #EXTINF:-1 tvg-id="1731" tvg-logo="tv.png",Дом Кино Премиум HD 
