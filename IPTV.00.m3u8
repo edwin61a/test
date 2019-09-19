@@ -7,14 +7,20 @@ https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy.00.m3u8
 #EXTINF:-1 tvg-id="317" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1
 https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.00.m3u8
 
-#EXTINF:-1 tvg-id="675" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
-https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
-
 #EXTINF:-1 tvg-id="447" tvg-logo="ru/glaz/spas.jpg",Спас ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8
 
 #EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",Союз
 https://github.com/edwin61a/test/raw/master/channels/ru.05_tvsoyuz.m3u8
+
+#EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",МузСоюз
+https://github.com/edwin61a/test/raw/master/channels/ru.06_muzsoyuz.m3u8
+
+#EXTINF:-1 tvg-id="675" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
+https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
+
+#EXTINF:-1 tvg-id="304" tvg-logo="ru/glaz/domashniy.jpg",Домашний
+https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
 
 #EXTINF:-1 tvg-id="79" tvg-logo="ru/glaz/sts.jpg",СТС
 https://github.com/edwin61a/test/raw/master/channels/ru.11_STS.0.m3u8
@@ -33,9 +39,6 @@ https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
 
 #EXTINF:-1 tvg-id="1791" tvg-logo="ru/glaz/tnt-online.jpg",ТНТ
 https://github.com/edwin61a/test/raw/master/channels/ru.16_TNT.0.m3u8
-
-#EXTINF:-1 tvg-id="304" tvg-logo="ru/glaz/domashniy.jpg",Домашний
-https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
 
 #EXTINF:-1 tvg-id="279" tvg-logo="ru/glaz/tv-3.jpg",ТВ-3
 https://github.com/edwin61a/test/raw/master/channels/ru.18_TV-3.0.m3u8
