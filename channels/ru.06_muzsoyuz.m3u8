@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1709296,RESOLUTION=1024x576,CODECS="avc1.66.31,mp4a.40.34"
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.tvsoyuz
