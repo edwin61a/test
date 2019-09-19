@@ -100,9 +100,9 @@ https://cdn.red-media.ru/4562d8d6fcca0524c9891747efbe0268/92878.mp4
 #EXTINF:-1 tvg-id="644" tvg-logo="ru/000/kinomiks.png",Киномикс
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konomiks.m3u8
 #EXTINF:-1 tvg-id="1584" tvg-logo="ru/000/mujskoe-kino.png",Мужское кино
-http://178.163.58.100:4022/udp/234.0.0.213:2000
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.muzhkoe.kino.m3u8
 #EXTINF:-1 tvg-id="462" tvg-logo="ru/000/kinosvidanie.png",Киносвидание
-
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konosvidanie.m3u8
 #EXTINF:-1 tvg-id="485" tvg-logo="ru/000/nashe-novoe-kino.png",Наше Новое Кино
 
 #EXTINF:-1 tvg-id="12" tvg-logo="ru/rodnoe-kino.png",Родное кино
@@ -110,9 +110,9 @@ http://178.163.58.100:4022/udp/234.0.0.213:2000
 #EXTINF:-1 tvg-id="821" tvg-logo="ru/000/kinokomediya.png",Кинокомедия
 
 #EXTINF:-1 tvg-id="798" tvg-logo="ru/000/indiyskoe-kino.png",Индийское кино
-
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.indiyskoe.kino.m3u8
 #EXTINF:-1 tvg-id="799" tvg-logo="ru/000/kinoseriya.png",Киносерия
-http://109.248.236.41:4433/udp/238.1.1.57:1234
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konoseria.m3u8
 
 #EXTINF:-1 group-title="-",
 
