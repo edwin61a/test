@@ -168,6 +168,8 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_pulse.m3u8
 
 ## TV background scenes
 #EXTINF:-1 group-title="Scenery"
+#EXTINF:-1 tvg-id="0",Релакс TV
+https://github.com/edwin61a/test/raw/master/channels/ru.99_relaxtv.m3u8
 #EXTINF:-1,Fireplace
 https://raw.githubusercontent.com/mhagens/virtualfireplace/master/1920x1080.mp4
 #EXTINF:-1,Campfire by the River
