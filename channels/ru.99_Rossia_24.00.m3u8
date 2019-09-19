@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:-1
-#EXTINF:-1,
-http://188.242.243.225:81/udp/239.239.1.6:5239
+#EXT-X-STREAM-INF:BANDWIDTH=1200000
+http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=600000
+http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b600000.m3u8
