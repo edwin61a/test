@@ -13,7 +13,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8
 #EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",Союз
 https://github.com/edwin61a/test/raw/master/channels/ru.05_tvsoyuz.m3u8
 
-#EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",МузСоюз
+#EXTINF:-1 tvg-id="1871" tvg-logo="ru/glaz/soyuz.png",МузСоюз
 https://github.com/edwin61a/test/raw/master/channels/ru.06_muzsoyuz.m3u8
 
 #EXTINF:-1 tvg-id="675" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
