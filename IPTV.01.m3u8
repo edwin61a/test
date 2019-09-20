@@ -162,14 +162,15 @@ http://retro80.hostingradio.ru:8025/retro80-128.mp3
 #EXTINF:-1 radio="true" tvg-logo="ru/glaz/Retro-FM.png",РЕТРО FM: 90-Е
 http://retro90.hostingradio.ru:8025/retro90-128.mp3
 
+#EXTINF:-1 group-title="Sport"
+#EXTINF:-1 group-title="Children"
+#EXTINF:-1 group-title="Webcams"
 #EXTINF:-1 group-title="Scenery"
 #EXTINF:-1,Fireplace
 https://raw.githubusercontent.com/mhagens/virtualfireplace/master/1920x1080.mp4
 #EXTINF:-1,Campfire by the River
 http://192.168.0.201/media/videos/Campfire.By.The.River.mp4
 #EXTINF:-1,Aquarium
-
-#EXTINF:-1 group-title="Webcams"
 
 #EXTINF:-1 group-title="TEST"
 #EXTINF:-1 tvg-logo="",TEST 0
