@@ -171,5 +171,11 @@ https://raw.githubusercontent.com/mhagens/virtualfireplace/master/1920x1080.mp4
 http://192.168.0.201/media/videos/Campfire.By.The.River.mp4
 #EXTINF:-1,Aquarium
 
-#EXTINF:-1 tvg-logo="",Test 0
-channels/zz.99_TEST.00.m3u8
+#EXTINF:-1 tvg-logo="",TEST 0
+https://github.com/edwin61a/test/raw/master/channels/zz.99_TEST.00.m3u8
+#EXTINF:-1 tvg-logo="",TEST 1
+https://github.com/edwin61a/test/raw/master/channels/zz.99_TEST.01.m3u8
+#EXTINF:-1 tvg-logo="",TEST 2
+https://github.com/edwin61a/test/raw/master/channels/zz.99_TEST.02.m3u8
+#EXTINF:-1 tvg-logo="",TEST 3
+https://github.com/edwin61a/test/raw/master/channels/zz.99_TEST.03.m3u8
