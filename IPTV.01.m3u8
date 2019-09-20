@@ -19,7 +19,6 @@ http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="79" tvg-logo="ru/glaz/sts.jpg",СТС
 https://pastebin.com/raw/DDsXCJjV
-## http://94.19.220.104:81/udp/239.239.2.64:5239
 
 #EXTINF:-1 tvg-id="173" tvg-logo="ru/000/telecafe.png",Телекафе
 https://pastebin.com/raw/hSJamMCV
@@ -171,3 +170,6 @@ https://raw.githubusercontent.com/mhagens/virtualfireplace/master/1920x1080.mp4
 #EXTINF:-1,Campfire by the River
 http://192.168.0.201/media/videos/Campfire.By.The.River.mp4
 #EXTINF:-1,Aquarium
+
+#EXTINF:-1 tvg-logo="",Test 0
+channels/zz.99_TEST.00.m3u8
