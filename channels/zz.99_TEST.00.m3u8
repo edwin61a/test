@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1635447,CODECS="avc1.66.31,mp4a.40.34",RESOLUTION=1024x576
-http://192.168.0.201/projects/iptv/test.m3u8
+http://192.168.0.201/projects/kodi/test/index.m3u8
