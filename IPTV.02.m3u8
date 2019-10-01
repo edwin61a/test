@@ -1,22 +1,24 @@
 #EXTM3U
 ## tvguide: https://teleguide.info/download/new3/xmltv.xml.gz
 
-#EXTINF:-1 tvg-id="146" tvg-logo="ru/glaz/pervyi-kanal.jpg",Первый канал
+#EXTINF:-1 tvg-id="1" tvg-logo="ru/glaz/pervyi-kanal.jpg",Первый канал
 https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy.00.m3u8
 
-#EXTINF:-1 tvg-id="317" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1
-https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.00.m3u8
+#EXTINF:-1 tvg-id="300124" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1 HD
+https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.HD.00.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1
+https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.SD.00.m3u8
 
-#EXTINF:-1 tvg-id="675" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
-https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
-
-#EXTINF:-1 tvg-id="447" tvg-logo="ru/glaz/spas.jpg",Спас ТВ
+#EXTINF:-1 tvg-id="222" tvg-logo="ru/glaz/spas.jpg",Спас ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8
 
-#EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",Союз
+#EXTINF:-1 tvg-id="300006" tvg-logo="ru/glaz/soyuz.png",Союз
 http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="79" tvg-logo="ru/glaz/sts.jpg",СТС
+#EXTINF:-1 tvg-id="400001" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
+https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-logo="ru/glaz/sts.jpg",СТС
 https://pastebin.com/raw/DDsXCJjV
 
 #EXTINF:-1 tvg-id="173" tvg-logo="ru/000/telecafe.png",Телекафе
@@ -39,7 +41,7 @@ https://pastebin.com/raw/w6k2tWft
 #EXTINF:-1 tvg-id="304" tvg-logo="ru/glaz/domashniy.jpg",Домашний
 https://pastebin.com/raw/pX7wQJPb
 
-#EXTINF:-1 tvg-id="279" tvg-logo="ru/glaz/tv-3.jpg",ТВ-3
+#EXTINF:-1 tvg-id="105" tvg-logo="ru/glaz/tv-3.jpg",ТВ-3
 http://94.19.220.104:81/udp/239.239.2.4:5239
 
 #EXTINF:-1 tvg-id="898" tvg-logo="ru/glaz/yu-tv.jpg",Ю
