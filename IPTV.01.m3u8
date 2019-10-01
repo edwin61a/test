@@ -30,7 +30,9 @@ rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
 #EXTINF:-1 tvg-id="162" tvg-logo="ru/glaz/ntv.jpg",НТВ
 https://pastebin.com/raw/BAbbxf0E
 
-#EXTINF:-1 tvg-id="103" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
+#EXTINF:-1 tvg-id="18" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
+https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
+#EXTINF:-1 tvg-id="689" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
 http://sc.id-tv.kz/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="1791" tvg-logo="ru/glaz/tnt-online.jpg",ТНТ
@@ -47,7 +49,9 @@ http://94.19.220.104:81/udp/239.239.2.4:5239
 http://178.163.65.14:8888/udp/234.0.0.229:2000
 
 #EXTINF:-1 tvg-id="427" tvg-logo="ru/glaz/pyatyi-kanal.jpg",Пятый Канал
-http://188.242.243.225:81/udp/239.239.1.4:5239
+https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatniy-kanal.m3u8
+#EXTINF:-1 tvg-id="504" tvg-logo="ru/glaz/pyatyi-kanal.jpg",Пятый Канал
+https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatniy-kanal.m3u8
 
 #EXTINF:-1 tvg-id="1000" tvg-logo="ru/000/otr.png",ОТР
 http://live-otronline.cdnvideo.ru/otr-decklink/otr_ru_720p/chunklist_DVR.m3u8
