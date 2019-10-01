@@ -30,9 +30,9 @@ rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
 #EXTINF:-1 tvg-id="162" tvg-logo="ru/glaz/ntv.jpg",НТВ
 https://pastebin.com/raw/BAbbxf0E
 
-#EXTINF:-1 tvg-id="18" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
+#EXTINF:-1 tvg-id="103" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
-#EXTINF:-1 tvg-id="689" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
+#EXTINF:-1 tvg-id="103" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
 http://sc.id-tv.kz/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="1791" tvg-logo="ru/glaz/tnt-online.jpg",ТНТ
