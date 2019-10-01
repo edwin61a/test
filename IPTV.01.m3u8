@@ -66,15 +66,19 @@ http://93.158.229.90:4022/udp/239.2.100.49:4321
 #EXTINF:-1 tvg-id="405" tvg-logo="ru/glaz/zvezda.jpg",Звезда
 http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1810" group-title="Обо всем",Супер
-http://31.148.16.31:8080/udp/224.10.10.66:10000
+#EXTINF:-1 tvg-id="1810" tvg-logo="ru/super-1.png" group-title="Обо всем",Супер
+https://github.com/edwin61a/test/raw/master/channels/ru.99_super.00.m3u8
 
 #EXTINF:-1 tvg-id="1666" tvg-logo="ru/glaz/kaleidoskop-tv.png",Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+
 #EXTINF:-1 tvg-id="187" tvg-logo="ru/glaz/rossiya-k.jpg",Россия Культура
-http://92.241.103.36:4022/udp/233.67.0.134:5510
+http://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/variant.m3u8
+#EXTINF:-1 tvg-id="0",Россия РТР
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
 #EXTINF:-1 tvg-id="1683" tvg-logo="ru/glaz/rossiya-24.jpg",Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
+
 #EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
 #EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
 #EXTINF:-1 tvg-id="127" tvg-logo="ru/000/tv1000.png",TV1000
