@@ -7,28 +7,32 @@ https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy.00.m3u8
 #EXTINF:-1 tvg-id="317" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1
 https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.00.m3u8
 
+#EXTINF:-1 tvg-id="447" tvg-logo="ru/glaz/spas.jpg",Спас ТВ
+https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8
+
+#EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1871" tvg-logo="ru/glaz/soyuz.png",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
 #EXTINF:-1 tvg-id="675" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
 https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
 
-#EXTINF:-1 tvg-id="447" tvg-logo="ru/glaz/spas.jpg",Спас ТВ
-https://pastebin.com/raw/8uCZjCK4
-## https://live-spastv.cdnvideo.ru/spastv-publish/spastv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",Союз
-http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="304" tvg-logo="ru/glaz/domashniy.jpg",Домашний
+https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
 
 #EXTINF:-1 tvg-id="79" tvg-logo="ru/glaz/sts.jpg",СТС
-https://pastebin.com/raw/DDsXCJjV
+https://github.com/edwin61a/test/raw/master/channels/ru.11_STS.0.m3u8
 
 #EXTINF:-1 tvg-id="173" tvg-logo="ru/000/telecafe.png",Телекафе
-https://pastebin.com/raw/hSJamMCV
-## http://188.243.71.63:4042/udp/239.239.4.4:5239
+https://github.com/edwin61a/test/raw/master/channels/ru.12_telekafe.0.m3u8
 
 #EXTINF:-1 tvg-id="649" tvg-logo="ru/glaz/tv-centr.jpg",ТВЦ
 rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
 
 #EXTINF:-1 tvg-id="162" tvg-logo="ru/glaz/ntv.jpg",НТВ
-https://pastebin.com/raw/BAbbxf0E
+https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.0.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
@@ -37,10 +41,6 @@ http://sc.id-tv.kz/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="1791" tvg-logo="ru/glaz/tnt-online.jpg",ТНТ
 https://pastebin.com/raw/w6k2tWft
-
-#EXTINF:-1 tvg-id="304" tvg-logo="ru/glaz/domashniy.jpg",Домашний
-https://pastebin.com/raw/pX7wQJPb
-## http://188.242.243.225:81/udp/239.239.2.65:5239
 
 #EXTINF:-1 tvg-id="279" tvg-logo="ru/glaz/tv-3.jpg",ТВ-3
 http://94.19.220.104:81/udp/239.239.2.4:5239
@@ -170,11 +170,6 @@ http://retro90.hostingradio.ru:8025/retro90-128.mp3
 #EXTINF:-1 group-title="Children"
 #EXTINF:-1 group-title="Webcams"
 #EXTINF:-1 group-title="Scenery"
-#EXTINF:-1,Fireplace
-https://raw.githubusercontent.com/mhagens/virtualfireplace/master/1920x1080.mp4
-#EXTINF:-1,Campfire by the River
-http://192.168.0.201/media/videos/Campfire.By.The.River.mp4
-#EXTINF:-1,Aquarium
 
 #EXTINF:-1 group-title="TEST"
 #EXTINF:-1 tvg-logo="",TEST 0
