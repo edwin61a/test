@@ -4,15 +4,16 @@
 #EXTINF:-1 tvg-id="146" tvg-logo="ru/glaz/pervyi-kanal.jpg",Первый канал
 https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy.00.m3u8
 
+#EXTINF:-1 tvg-id="984" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1 HD
+https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.HD.00.m3u8
 #EXTINF:-1 tvg-id="317" tvg-logo="ru/glaz/rossiya-1.jpg",Россия 1
-https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.00.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.SD.00.m3u8
 
 #EXTINF:-1 tvg-id="447" tvg-logo="ru/glaz/spas.jpg",Спас ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8
 
 #EXTINF:-1 tvg-id="349" tvg-logo="ru/glaz/soyuz.png",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1871" tvg-logo="ru/glaz/soyuz.png",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
@@ -40,7 +41,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
 http://sc.id-tv.kz/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="1791" tvg-logo="ru/glaz/tnt-online.jpg",ТНТ
-https://pastebin.com/raw/w6k2tWft
+https://github.com/edwin61a/test/raw/master/channels/ru.16_TNT.0.m3u8
 
 #EXTINF:-1 tvg-id="279" tvg-logo="ru/glaz/tv-3.jpg",ТВ-3
 http://94.19.220.104:81/udp/239.239.2.4:5239
