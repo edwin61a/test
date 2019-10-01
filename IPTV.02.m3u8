@@ -117,7 +117,7 @@ http://109.248.236.41:4433/udp/238.1.1.57:1234
 #EXTINF:-1 tvg-id="686" tvg-logo="ru/000/feniks+-kino.png",Феникс+ Кино
 
 #EXTINF:-1 tvg-id="690" tvg-logo="ru/glaz/spb.png",Санкт-Петербург
-http://188.243.62.238:81/udp/239.239.3.67:5239
+https://github.com/edwin61a/test/raw/master/channels/ru.99_spb.m3u8
 #EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
 http://94.19.220.104:81/udp/239.239.3.31:5239
 #EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",LIFE78 HD
