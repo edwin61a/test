@@ -72,12 +72,14 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_super.00.m3u8
 #EXTINF:-1 tvg-id="1666" tvg-logo="ru/glaz/kaleidoskop-tv.png",Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="187" tvg-logo="ru/glaz/rossiya-k.jpg",Россия Культура
 http://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/variant.m3u8
 #EXTINF:-1 tvg-id="0",Россия РТР
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
 #EXTINF:-1 tvg-id="1683" tvg-logo="ru/glaz/rossiya-24.jpg",Россия 24
 http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
+
 
 #EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
 #EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
@@ -98,11 +100,11 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
 
 #EXTINF:-1 group-title="Кино",## https://www.nastroykino.ru/
 #EXTINF:-1 tvg-id="566" tvg-logo="tv.png",Кинопремьера
-https://cdn.red-media.ru/4562d8d6fcca0524c9891747efbe0268/92878.mp4
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konopremiera.m3u8
 #EXTINF:-1 tvg-id="542" tvg-logo="ru/000/kinohit.png",Кинохит
-
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konohit.m3u8
 #EXTINF:-1 tvg-id="987" tvg-logo="ru/000/kinosemya.png",Киносемья
-
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konocemya.m3u8
 #EXTINF:-1 tvg-id="644" tvg-logo="ru/000/kinomiks.png",Киномикс
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konomiks.m3u8
 #EXTINF:-1 tvg-id="1584" tvg-logo="ru/000/mujskoe-kino.png",Мужское кино
