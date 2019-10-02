@@ -44,10 +44,10 @@ http://sc.id-tv.kz/RenTV.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.16_TNT.0.m3u8
 
 #EXTINF:-1 tvg-id="279" tvg-logo="ru/glaz/tv-3.jpg",ТВ-3
-http://94.19.220.104:81/udp/239.239.2.4:5239
+https://github.com/edwin61a/test/raw/master/channels/ru.18_TV-3.0.m3u8
 
 #EXTINF:-1 tvg-id="898" tvg-logo="ru/glaz/yu-tv.jpg",Ю
-http://178.163.65.14:8888/udp/234.0.0.229:2000
+https://github.com/edwin61a/test/raw/master/channels/ru.19_YU.0.m3u8
 
 #EXTINF:-1 tvg-id="427" tvg-logo="ru/glaz/pyatyi-kanal.jpg",Пятый Канал
 https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatniy-kanal.m3u8
@@ -58,10 +58,10 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatniy-kanal.m3u8
 http://live-otronline.cdnvideo.ru/otr-decklink/otr_ru_720p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="1003" tvg-logo="ru/glaz/pyatnica.jpg",Пятница
-https://hastebin.com/raw/ixedomunom
+https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatnitsa.m3u8
 
 #EXTINF:-1 tvg-id="1598" tvg-logo="ru/glaz/che.jpg",Че
-http://93.158.229.90:4022/udp/239.2.100.49:4321
+https://github.com/edwin61a/test/raw/master/channels/ru.20_Che.0.m3u8
 
 #EXTINF:-1 tvg-id="405" tvg-logo="ru/glaz/zvezda.jpg",Звезда
 http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
@@ -82,21 +82,21 @@ http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
 #EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
 #EXTINF:-1 tvg-id="127" tvg-logo="ru/000/tv1000.png",TV1000
-http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/27363
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000.m3u8
 #EXTINF:-1 tvg-id="125" tvg-logo="ru/fanat/tv1000-action.png",TV1000 Action
-http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/27362
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-Action.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="ru/000/tv1000-russkoe-kino.png",TV1000 Русское кино
-http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/27361
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-RU-Kino.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-logo="ru/glaz/mosobl.png",Телеканал 360 HD
-http://94.19.220.104:81/udp/239.239.3.53:5239
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Telekanal-360.m3u8
 #EXTINF:-1 tvg-id="217" tvg-logo="ru/glaz/8-kanal-1.png",8 Канал
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="309" tvg-logo="ru/glaz/tv-xxi.jpg",TV XXI (TV21)
-http://178.163.65.14:8888/udp/234.0.0.187:2000
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
 
-#EXTINF:-1 group-title="Кино",
-# https://www.nastroykino.ru/
+
+#EXTINF:-1 group-title="Кино",## https://www.nastroykino.ru/
 #EXTINF:-1 tvg-id="566" tvg-logo="tv.png",Кинопремьера
 https://cdn.red-media.ru/4562d8d6fcca0524c9891747efbe0268/92878.mp4
 #EXTINF:-1 tvg-id="542" tvg-logo="ru/000/kinohit.png",Кинохит
@@ -104,11 +104,11 @@ https://cdn.red-media.ru/4562d8d6fcca0524c9891747efbe0268/92878.mp4
 #EXTINF:-1 tvg-id="987" tvg-logo="ru/000/kinosemya.png",Киносемья
 
 #EXTINF:-1 tvg-id="644" tvg-logo="ru/000/kinomiks.png",Киномикс
-http://178.163.58.100:4022/udp/234.0.0.222:2000
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konomiks.m3u8
 #EXTINF:-1 tvg-id="1584" tvg-logo="ru/000/mujskoe-kino.png",Мужское кино
-http://178.163.58.100:4022/udp/234.0.0.213:2000
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.muzhkoe.kino.m3u8
 #EXTINF:-1 tvg-id="462" tvg-logo="ru/000/kinosvidanie.png",Киносвидание
-
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konosvidanie.m3u8
 #EXTINF:-1 tvg-id="485" tvg-logo="ru/000/nashe-novoe-kino.png",Наше Новое Кино
 
 #EXTINF:-1 tvg-id="12" tvg-logo="ru/rodnoe-kino.png",Родное кино
@@ -116,9 +116,10 @@ http://178.163.58.100:4022/udp/234.0.0.213:2000
 #EXTINF:-1 tvg-id="821" tvg-logo="ru/000/kinokomediya.png",Кинокомедия
 
 #EXTINF:-1 tvg-id="798" tvg-logo="ru/000/indiyskoe-kino.png",Индийское кино
-
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.indiyskoe.kino.m3u8
 #EXTINF:-1 tvg-id="799" tvg-logo="ru/000/kinoseriya.png",Киносерия
-http://109.248.236.41:4433/udp/238.1.1.57:1234
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konoseria.m3u8
+
 
 #EXTINF:-1 group-title="-",
 
@@ -137,9 +138,16 @@ http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.
 #EXTINF:-1 tvg-id="1800" tvg-logo="ru/glaz/sts-love.jpg",СТС Love
 http://81.177.222.193:4022/udp/232.0.2.48:1234
 
-#EXTGRP:Кино
+
+#EXTINF:-1 tvg-id="994",Русский Бестселлер
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Bestseller.m3u8
 #EXTINF:-1 tvg-id="1570" tvg-logo="ru/000/1465401981_russkiy-detektiv.png",Русский Детектив
-http://188.243.71.63:4042/udp/239.239.4.19:5239
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Detektiv.m3u8
+#EXTINF:-1 tvg-id="401",Русский Роман
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
+
+
+#EXTGRP:Кино
 #EXTINF:-1 tvg-id="1037" tvg-logo="ru/fanat/kino-tv.png",Кино ТВ
 http://188.243.71.63:4042/udp/239.239.4.20:5239
 #EXTINF:-1 tvg-id="834" tvg-logo="ru/glaz/dom-kino.jpg",Дом кино
