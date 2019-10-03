@@ -134,13 +134,13 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.99_spb.m3u8
 #EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",78 канал
 https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
+#EXTINF:-1 tvg-id="1398" tvg-logo="ru/glaz/47-kanal.png",47 Канал
+http://lvms01.inmedis.ru:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
 http://94.19.220.104:81/udp/239.239.3.31:5239
 #EXTINF:-1 tvg-id="990" tvg-logo="ru/glaz/animal-planet.jpg",Animal Planet HD
-#EXTINF:-1 tvg-id="1398" tvg-logo="ru/glaz/47-kanal.png",47 Канал
-http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1800" tvg-logo="ru/glaz/sts-love.jpg",СТС Love
 http://81.177.222.193:4022/udp/232.0.2.48:1234
 
