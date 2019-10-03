@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=7439316,CODECS="avc1.100.40,mp4a.40.2",RESOLUTION=1920x1080
+http://lvms01.inmedis.ru:1935/videowhisper/47channel_live_broadcast.stream/chunklist_w1084032632.m3u8
