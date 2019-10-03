@@ -83,17 +83,6 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
 http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 
 
-#EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
-#EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
-
-#EXTINF:-1 tvg-id="161" tvg-logo="ru/glaz/mosobl.png",Телеканал 360 HD
-https://github.com/edwin61a/test/raw/master/channels/ru.99_Telekanal-360.m3u8
-#EXTINF:-1 tvg-id="217" tvg-logo="ru/glaz/8-kanal-1.png",8 Канал
-http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="309" tvg-logo="ru/glaz/tv-xxi.jpg",TV XXI (TV21)
-https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
-
-
 #EXTINF:-1 tvg-id="994",Русский Бестселлер
 https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Bestseller.m3u8
 #EXTINF:-1 tvg-id="1570" tvg-logo="ru/000/1465401981_russkiy-detektiv.png",Русский Детектив
@@ -154,19 +143,31 @@ https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konoseria.
 #EXTINF:-1 tvg-id="934" tvg-logo="ru/000/MGMHD.png",MGM HD
 
 
-#EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
-http://94.19.220.104:81/udp/239.239.3.31:5239
-#EXTINF:-1 tvg-id="990" tvg-logo="ru/glaz/animal-planet.jpg",Animal Planet HD
-#EXTINF:-1 tvg-id="1800" tvg-logo="ru/glaz/sts-love.jpg",СТС Love
-http://81.177.222.193:4022/udp/232.0.2.48:1234
-
-
 #EXTINF:-1 tvg-logo="ru/glaz/mir.jpg" tvg-id="726",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz/mir.jpg" tvg-id="1809",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="ru/glaz/mir.jpg" tvg-id="1331",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
+#EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
+
+#EXTINF:-1 tvg-id="161" tvg-logo="ru/glaz/mosobl.png",Телеканал 360 HD
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Telekanal-360.m3u8
+#EXTINF:-1 tvg-id="217" tvg-logo="ru/glaz/8-kanal-1.png",8 Канал
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="309" tvg-logo="ru/glaz/tv-xxi.jpg",TV XXI (TV21)
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
+
+
+#EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
+http://94.19.220.104:81/udp/239.239.3.31:5239
+#EXTINF:-1 tvg-id="990" tvg-logo="ru/glaz/animal-planet.jpg",Animal Planet HD
+#EXTINF:-1 tvg-id="1800" tvg-logo="ru/glaz/sts-love.jpg",СТС Love
+http://81.177.222.193:4022/udp/232.0.2.48:1234
+
 
 #EXTINF:-1 tvg-id="730" tvg-logo="ru/glaz/tro.png" group-title="Развлечения",ТРО Союз (БелРос)
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
