@@ -131,8 +131,8 @@ https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konoseria.
 https://github.com/edwin61a/test/raw/master/channels/ru.99_spb.m3u8
 #EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
 http://94.19.220.104:81/udp/239.239.3.31:5239
-#EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",LIFE78 HD
-http://94.19.220.104:81/udp/239.239.3.68:5239
+#EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",78 канал
+https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
 #EXTINF:-1 tvg-id="934" tvg-logo="ru/000/MGMHD.png",MGM HD
 #EXTINF:-1 tvg-id="990" tvg-logo="ru/glaz/animal-planet.jpg",Animal Planet HD
 #EXTINF:-1 tvg-id="1398" tvg-logo="ru/glaz/47-kanal.png",47 Канал
