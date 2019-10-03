@@ -1,4 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=100000,RESOLUTION=720x576,CODECS="avc1.66.40,mp4a.40.2"
-http://gorod.tv/s/live/21/10.10.10.10/0/0.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2096000,RESOLUTION=720x540
+https://stream2.topspb.tv/dev/smil:reserve.smil/chunklist_w682136227_b2096000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=896000,RESOLUTION=640x480
+https://stream2.topspb.tv/dev/smil:reserve.smil/chunklist_w682136227_b896000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=396000,RESOLUTION=360x270
+https://stream2.topspb.tv/dev/smil:reserve.smil/chunklist_w682136227_b396000.m3u8
