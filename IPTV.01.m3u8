@@ -103,7 +103,7 @@ https://lvms01.inmedis.ru:4443/videowhisper/47channel_live_broadcast.stream/play
 #EXTGRP:Кино
 #EXTINF:-1 group-title="Кино",##
 #EXTINF:-1 tvg-id="834" tvg-logo="ru/glaz/dom-kino.jpg",Дом кино
-https://github.com/edwin61a/test/raw/master/channels/ru.03.dom_kino.00.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.03.dom_kino.m3u8
 #EXTINF:-1 tvg-id="1731" tvg-logo="tv.png",Дом Кино Премиум HD 
 #EXTINF:-1 tvg-id="1037" tvg-logo="ru/fanat/kino-tv.png",Кино ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.03.kino_tv.m3u8
