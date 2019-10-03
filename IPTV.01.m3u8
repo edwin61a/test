@@ -39,7 +39,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.0.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
-#EXTINF:-1 tvg-id="689" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ
+#EXTINF:-1 tvg-id="689" tvg-logo="ru/glaz/ren-tv.jpg",РЕН ТВ (KZ)
 http://sc.id-tv.kz/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="1791" tvg-logo="ru/glaz/tnt-online.jpg",ТНТ
@@ -96,7 +96,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.99_spb.m3u8
 #EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",78 канал
 https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
-#EXTINF:-1 tvg-id="1398" tvg-logo="ru/glaz/47-kanal.png",47 Канал
+#EXTINF:-1 tvg-id="1398" tvg-logo="ru/glaz/47-kanal.png",ЛенТВ24 (47 Канал)
 https://lvms01.inmedis.ru:4443/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 
 
@@ -187,10 +187,10 @@ http://retro80.hostingradio.ru:8025/retro80-128.mp3
 #EXTINF:-1 radio="true" tvg-logo="ru/glaz/Retro-FM.png",РЕТРО FM: 90-Е
 http://retro90.hostingradio.ru:8025/retro90-128.mp3
 
-#EXTINF:-1 group-title="Sport"
-#EXTINF:-1 group-title="Children"
-#EXTINF:-1 group-title="Webcams"
-#EXTINF:-1 group-title="Scenery"
+#EXTINF:-1 group-title="Sport",
+#EXTINF:-1 group-title="Children",
+#EXTINF:-1 group-title="Webcams",
+#EXTINF:-1 group-title="Scenery",
 
 #EXTINF:-1 group-title="TEST"
 #EXTINF:-1 tvg-logo="",TEST 0
