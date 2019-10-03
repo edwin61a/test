@@ -85,12 +85,6 @@ http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 
 #EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
 #EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
-#EXTINF:-1 tvg-id="127" tvg-logo="ru/000/tv1000.png",TV1000
-https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000.m3u8
-#EXTINF:-1 tvg-id="125" tvg-logo="ru/fanat/tv1000-action.png",TV1000 Action
-https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-Action.m3u8
-#EXTINF:-1 tvg-id="267" tvg-logo="ru/000/tv1000-russkoe-kino.png",TV1000 Русское кино
-https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-RU-Kino.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-logo="ru/glaz/mosobl.png",Телеканал 360 HD
 https://github.com/edwin61a/test/raw/master/channels/ru.99_Telekanal-360.m3u8
@@ -99,6 +93,37 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="309" tvg-logo="ru/glaz/tv-xxi.jpg",TV XXI (TV21)
 https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
 
+
+#EXTINF:-1 tvg-id="994",Русский Бестселлер
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Bestseller.m3u8
+#EXTINF:-1 tvg-id="1570" tvg-logo="ru/000/1465401981_russkiy-detektiv.png",Русский Детектив
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Detektiv.m3u8
+#EXTINF:-1 tvg-id="401",Русский Роман
+https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
+
+
+#EXTINF:-1 group-title="Санкт-Петербург",Санкт-Петербург
+#EXTINF:-1 tvg-id="690" tvg-logo="ru/glaz/spb.png",Санкт-Петербург
+https://github.com/edwin61a/test/raw/master/channels/ru.99_spb.m3u8
+#EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",78 канал
+https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
+#EXTINF:-1 tvg-id="1398" tvg-logo="ru/glaz/47-kanal.png",47 Канал
+https://lvms01.inmedis.ru:4443/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+
+
+#EXTGRP:Кино
+#EXTINF:-1 group-title="Кино",##
+#EXTINF:-1 tvg-id="834" tvg-logo="ru/glaz/dom-kino.jpg",Дом кино
+https://github.com/edwin61a/test/raw/master/channels/ru.03.dom_kino.00.m3u8
+#EXTINF:-1 tvg-id="1731" tvg-logo="tv.png",Дом Кино Премиум HD 
+#EXTINF:-1 tvg-id="1037" tvg-logo="ru/fanat/kino-tv.png",Кино ТВ
+https://github.com/edwin61a/test/raw/master/channels/ru.03.kino_tv.m3u8
+#EXTINF:-1 tvg-id="127" tvg-logo="ru/000/tv1000.png",TV1000
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000.m3u8
+#EXTINF:-1 tvg-id="125" tvg-logo="ru/fanat/tv1000-action.png",TV1000 Action
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-Action.m3u8
+#EXTINF:-1 tvg-id="267" tvg-logo="ru/000/tv1000-russkoe-kino.png",TV1000 Русское кино
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-RU-Kino.m3u8
 
 #EXTINF:-1 group-title="Кино",## https://www.nastroykino.ru/
 #EXTINF:-1 tvg-id="566" tvg-logo="tv.png",Кинопремьера
@@ -129,36 +154,12 @@ https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konoseria.
 #EXTINF:-1 tvg-id="934" tvg-logo="ru/000/MGMHD.png",MGM HD
 
 
-#EXTINF:-1 tvg-id="994",Русский Бестселлер
-https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Bestseller.m3u8
-#EXTINF:-1 tvg-id="1570" tvg-logo="ru/000/1465401981_russkiy-detektiv.png",Русский Детектив
-https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Detektiv.m3u8
-#EXTINF:-1 tvg-id="401",Русский Роман
-https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
-
-
-#EXTINF:-1 group-title="-",
-#EXTINF:-1 tvg-id="690" tvg-logo="ru/glaz/spb.png",Санкт-Петербург
-https://github.com/edwin61a/test/raw/master/channels/ru.99_spb.m3u8
-#EXTINF:-1 tvg-id="812" tvg-logo="ru/glaz/78.png",78 канал
-https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
-#EXTINF:-1 tvg-id="1398" tvg-logo="ru/glaz/47-kanal.png",47 Канал
-https://lvms01.inmedis.ru:4443/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
 http://94.19.220.104:81/udp/239.239.3.31:5239
 #EXTINF:-1 tvg-id="990" tvg-logo="ru/glaz/animal-planet.jpg",Animal Planet HD
 #EXTINF:-1 tvg-id="1800" tvg-logo="ru/glaz/sts-love.jpg",СТС Love
 http://81.177.222.193:4022/udp/232.0.2.48:1234
 
-
-#EXTGRP:Кино
-#EXTINF:-1 tvg-id="1037" tvg-logo="ru/fanat/kino-tv.png",Кино ТВ
-http://188.243.71.63:4042/udp/239.239.4.20:5239
-#EXTINF:-1 tvg-id="834" tvg-logo="ru/glaz/dom-kino.jpg",Дом кино
-http://188.243.71.63:4042/udp/239.239.4.3:5239
-#EXTINF:-1 tvg-id="1731" tvg-logo="tv.png",Дом Кино Премиум HD 
 
 #EXTINF:-1 tvg-logo="ru/glaz/mir.jpg" tvg-id="726",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
