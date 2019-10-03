@@ -96,6 +96,17 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
 https://lvms01.inmedis.ru:4443/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 
 
+#EXTGRP:Кино
+#EXTINF:-1 group-title="Кино",##
+#EXTINF:-1 tvg-id="100002" tvg-logo="ru/glaz/dom-kino.jpg",Дом кино
+https://github.com/edwin61a/test/raw/master/channels/ru.03.dom_kino.m3u8
+#EXTINF:-1 tvg-id="1991" tvg-logo="tv.png",Дом Кино Премиум HD 
+#EXTINF:-1 tvg-id="1653" tvg-logo="ru/fanat/kino-tv.png",Кино ТВ
+https://github.com/edwin61a/test/raw/master/channels/ru.03.kino_tv.m3u8
+#EXTINF:-1 tvg-id="289" tvg-logo="ru/glaz/tv-xxi.jpg",TV XXI (TV21)
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
+
+
 #EXTINF:-1 tvg-id="53" tvg-logo="ru/000/russkiy-illyuzion.jpg",Русский Иллюзион
 #EXTINF:-1 tvg-id="123" tvg-logo="ru/glaz/illyuzion-plus.jpg",Иллюзион +
 #EXTINF:-1 tvg-id="127" tvg-logo="ru/000/tv1000.png",TV1000
@@ -105,15 +116,7 @@ http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/27362
 #EXTINF:-1 tvg-id="267" tvg-logo="ru/000/tv1000-russkoe-kino.png",TV1000 Русское кино
 http://kingsateu.com:8080/hC7IPrYgYe/asFGD23sdfF/27361
 
-#EXTINF:-1 tvg-id="161" tvg-logo="ru/glaz/mosobl.png",Телеканал 360 HD
-http://94.19.220.104:81/udp/239.239.3.53:5239
-#EXTINF:-1 tvg-id="217" tvg-logo="ru/glaz/8-kanal-1.png",8 Канал
-http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="309" tvg-logo="ru/glaz/tv-xxi.jpg",TV XXI (TV21)
-http://178.163.65.14:8888/udp/234.0.0.187:2000
-
-#EXTINF:-1 group-title="Кино",
-# https://www.nastroykino.ru/
+#EXTINF:-1 group-title="Кино",( https://www.nastroykino.ru/ )
 #EXTINF:-1 tvg-id="566" tvg-logo="tv.png",Кинопремьера
 https://cdn.red-media.ru/4562d8d6fcca0524c9891747efbe0268/92878.mp4
 #EXTINF:-1 tvg-id="542" tvg-logo="ru/000/kinohit.png",Кинохит
@@ -148,11 +151,6 @@ http://94.19.220.104:81/udp/239.239.3.31:5239
 #EXTINF:-1 tvg-id="1800" tvg-logo="ru/glaz/sts-love.jpg",СТС Love
 http://81.177.222.193:4022/udp/232.0.2.48:1234
 
-#EXTINF:-1 tvg-id="1037" tvg-logo="ru/fanat/kino-tv.png",Кино ТВ
-http://188.243.71.63:4042/udp/239.239.4.20:5239
-#EXTINF:-1 tvg-id="834" tvg-logo="ru/glaz/dom-kino.jpg",Дом кино
-http://188.243.71.63:4042/udp/239.239.4.3:5239
-#EXTINF:-1 tvg-id="1731" tvg-logo="tv.png",Дом Кино Премиум HD 
 
 #EXTINF:-1 tvg-logo="ru/glaz/mir.jpg" tvg-id="726",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -171,6 +169,12 @@ http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
 #EXTINF:-1 group-title="Кино",HTM HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="161" tvg-logo="ru/glaz/mosobl.png",Телеканал 360 HD
+http://94.19.220.104:81/udp/239.239.3.53:5239
+#EXTINF:-1 tvg-id="217" tvg-logo="ru/glaz/8-kanal-1.png",8 Канал
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+
+
 #EXTINF:-1 group-title="radio",Radio
 #EXTINF:-1 tvg-logo="ru/glaz/Retro-FM.png" radio="true",РЕТРО FM: 70-Е
 http://retro70.hostingradio.ru:8025/retro70-128.mp3
@@ -179,15 +183,10 @@ http://retro80.hostingradio.ru:8025/retro80-128.mp3
 #EXTINF:-1 radio="true" tvg-logo="ru/glaz/Retro-FM.png",РЕТРО FM: 90-Е
 http://retro90.hostingradio.ru:8025/retro90-128.mp3
 
-#EXTINF:-1 group-title="Sport"
-#EXTINF:-1 group-title="Children"
-#EXTINF:-1 group-title="Webcams"
-#EXTINF:-1 group-title="Scenery"
-#EXTINF:-1,Fireplace
-https://raw.githubusercontent.com/mhagens/virtualfireplace/master/1920x1080.mp4
-#EXTINF:-1,Campfire by the River
-http://192.168.0.201/media/videos/Campfire.By.The.River.mp4
-#EXTINF:-1,Aquarium
+#EXTINF:-1 group-title="Sport",
+#EXTINF:-1 group-title="Children",
+#EXTINF:-1 group-title="Webcams",
+#EXTINF:-1 group-title="Scenery",
 
 #EXTINF:-1 group-title="TEST"
 #EXTINF:-1 tvg-logo="",TEST 0
