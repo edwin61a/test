@@ -1,5 +1,10 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:-1
-#EXTINF:-1,
-http://213.234.9.46:7088/udp/239.1.9.1:1234
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://a3569458683-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/playlist.m3u8?utcstart=1570960800&version=2
+#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,URI="http://a3569458683-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/iframes.m3u8?utcstart=1570960800&version=2"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+http://a3569458683-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw1500000/playlist.m3u8?utcstart=1570960800&version=2
+#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,URI="http://a3569458683-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw1500000/iframes.m3u8?utcstart=1570960800&version=2"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://a3569458683-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw500000/playlist.m3u8?utcstart=1570960800&version=2
+#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,URI="http://a3569458683-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw500000/iframes.m3u8?utcstart=1570960800&version=2"
