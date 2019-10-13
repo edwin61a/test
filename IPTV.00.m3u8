@@ -182,7 +182,8 @@ http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
 #EXTINF:-1 tvg-id="1803",Любимое.TV
 http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0",Unknown Planet
+#EXTINF:-1 group-title="Documentary",
+#EXTINF:-1 tvg-id="1793",Неизвестная Планета
 rtmp://serv25.vintera.tv:1935/neplaneta/np
 
 ## TV background scenes
