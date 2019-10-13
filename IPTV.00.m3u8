@@ -21,7 +21,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.06_muzsoyuz.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
 
 #EXTINF:-1 tvg-id="1793",Неизвестная Планета
-rtmp://serv25.vintera.tv:1935/neplaneta/np
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 
 #EXTINF:-1 group-title="",
 #EXTINF:-1 tvg-id="304" tvg-logo="ru/glaz/domashniy.jpg",Домашний
