@@ -188,7 +188,7 @@ http://retro80.hostingradio.ru:8025/retro80-128.mp3
 http://retro90.hostingradio.ru:8025/retro90-128.mp3
 
 #EXTINF:-1 group-title="Documentary",
-#EXTINF:-1 tvg-id="0",Unknown Planet HD
+#EXTINF:-1 tvg-id="1793",Неизвестная Планета
 rtmp://serv25.vintera.tv:1935/neplaneta/np
 
 #EXTINF:-1 group-title="Sport",
