@@ -191,10 +191,10 @@ http://retro90.hostingradio.ru:8025/retro90-128.mp3
 
 #EXTINF:-1 group-title="TEST"
 #EXTINF:-1 tvg-logo="",TEST 0
-https://github.com/edwin61a/test/raw/master/channels/zz.99_TEST.00.m3u8
+http://bosko.lan/projects/kodi/iptv/channels/zz.99.TEST.00.m3u8
 #EXTINF:-1 tvg-logo="",TEST 1
-https://github.com/edwin61a/test/raw/master/channels/zz.99_TEST.01.m3u8
+http://bosko.lan/projects/kodi/iptv/channels/zz.99.TEST.01.m3u8
 #EXTINF:-1 tvg-logo="",TEST 2
-https://github.com/edwin61a/test/raw/master/channels/zz.99_TEST.02.m3u8
+http://bosko.lan/projects/kodi/iptv/channels/zz.99.TEST.02.m3u8
 #EXTINF:-1 tvg-logo="",TEST 3
-https://github.com/edwin61a/test/raw/master/channels/zz.99_TEST.03.m3u8
+http://bosko.lan/projects/kodi/iptv/channels/zz.99.TEST.03.m3u8
