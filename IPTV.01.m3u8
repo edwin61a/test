@@ -19,9 +19,14 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="1871" tvg-logo="ru/glaz/soyuz.png",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
+#EXTINF:-1 group-title="Documentary",
 #EXTINF:-1 tvg-id="675" tvg-logo="ru/glaz/moya-planeta.jpg",Моя Планета
 https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
 
+#EXTINF:-1 tvg-id="1793",Неизвестная Планета
+rtmp://serv25.vintera.tv:1935/neplaneta/np
+
+#EXTINF:-1 group-title="",
 #EXTINF:-1 tvg-id="304" tvg-logo="ru/glaz/domashniy.jpg",Домашний
 https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
 
@@ -31,8 +36,8 @@ https://github.com/edwin61a/test/raw/master/channels/ru.11_STS.0.m3u8
 #EXTINF:-1 tvg-id="173" tvg-logo="ru/000/telecafe.png",Телекафе
 https://github.com/edwin61a/test/raw/master/channels/ru.12_telekafe.0.m3u8
 
-#EXTINF:-1 tvg-id="649" tvg-logo="ru/glaz/tv-centr.jpg",ТВЦ
-rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
+#EXTINF:-1 tvg-id="649" tvg-logo="http://static.tvc.ru/assets/img/logo.svg?v=128",ТВЦ
+https://github.com/edwin61a/test/raw/master/channels/ru.99.TVC.00.m3u8
 
 #EXTINF:-1 tvg-id="162" tvg-logo="ru/glaz/ntv.jpg",НТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.0.m3u8
@@ -186,10 +191,6 @@ http://retro70.hostingradio.ru:8025/retro70-128.mp3
 http://retro80.hostingradio.ru:8025/retro80-128.mp3
 #EXTINF:-1 radio="true" tvg-logo="ru/glaz/Retro-FM.png",РЕТРО FM: 90-Е
 http://retro90.hostingradio.ru:8025/retro90-128.mp3
-
-#EXTINF:-1 group-title="Documentary",
-#EXTINF:-1 tvg-id="1793",Неизвестная Планета
-rtmp://serv25.vintera.tv:1935/neplaneta/np
 
 #EXTINF:-1 group-title="Sport",
 #EXTINF:-1 group-title="Children",
