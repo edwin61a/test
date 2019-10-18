@@ -34,8 +34,8 @@ https://github.com/edwin61a/test/raw/master/channels/ru.11_STS.0.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.12_telekafe.0.m3u8
 
 #EXTINF:-1 tvg-id="649" tvg-logo="ru/glaz/tv-centr.jpg",ТВЦ
-rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
- 
+https://github.com/edwin61a/test/raw/master/channels/ru.99.TVC.00.m3u8
+
 #EXTINF:-1 tvg-id="162" tvg-logo="ru/glaz/ntv.jpg",НТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.0.m3u8
 
