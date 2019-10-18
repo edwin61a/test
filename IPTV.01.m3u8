@@ -88,14 +88,14 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
 http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 
 
-#EXTINF:-1 group-title="Мир ТВ" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png",http://www.mirtv.ru/
+#EXTINF:-1 group-title="Мир ТВ",http://www.mirtv.ru/
 #EXTINF:-1 tvg-id="726",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="1809",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="1331",Мир 24 HD
+#EXTINF:-1 tvg-id="1331" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-mir-24.png",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,Мир International
+#EXTINF:-1 tvg-id="0" tvg-logo="http://www.mirtv.ru/images/default_logo_color.png",Мир International
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 
 
