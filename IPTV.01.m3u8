@@ -126,7 +126,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.03.dom_kino.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.03.kino_tv.m3u8
 #EXTINF:-1 tvg-id="127" tvg-logo="ru/000/tv1000.png",TV1000
 https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000.m3u8
-#EXTINF:-1 tvg-id="125" tvg-logo="ru/fanat/tv1000-action.png",TV1000 Action
+#EXTINF:-1 tvg-id="125" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-tv1000-action.png",TV1000 Action
 https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-Action.m3u8
 #EXTINF:-1 tvg-id="267" tvg-logo="ru/000/tv1000-russkoe-kino.png",TV1000 Русское кино
 https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-RU-Kino.m3u8
