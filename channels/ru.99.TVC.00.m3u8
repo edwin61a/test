@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1703000
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.tvc
+#EXT-X-STREAM-INF:BANDWIDTH=884000
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b884000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.tvc
+#EXT-X-STREAM-INF:BANDWIDTH=475000
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b475000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.tvc
