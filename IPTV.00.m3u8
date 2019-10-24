@@ -113,7 +113,7 @@ https://cdn.red-media.ru/4562d8d6fcca0524c9891747efbe0268/92878.mp4
 #EXTINF:-1 tvg-id="542" tvg-logo="ru/000/kinohit.png",Кинохит
 
 #EXTINF:-1 tvg-id="987" tvg-logo="ru/000/kinosemya.png",Киносемья
-
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konosemya.m3u8
 #EXTINF:-1 tvg-id="644" tvg-logo="ru/000/kinomiks.png",Киномикс
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.88.konomiks.m3u8
 #EXTINF:-1 tvg-id="1584" tvg-logo="ru/000/mujskoe-kino.png",Мужское кино
