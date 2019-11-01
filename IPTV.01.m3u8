@@ -171,8 +171,6 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
 
 
-#EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
-http://94.19.220.104:81/udp/239.239.3.31:5239
 #EXTINF:-1 tvg-id="990" tvg-logo="ru/glaz/animal-planet.jpg",Animal Planet HD
 #EXTINF:-1 tvg-id="1800" tvg-logo="ru/glaz/sts-love.jpg",СТС Love
 http://81.177.222.193:4022/udp/232.0.2.48:1234
@@ -184,6 +182,9 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
 #EXTINF:-1 tvg-id="331",Приключения HD
 
+
+#EXTINF:-1 tvg-id="774" tvg-logo="ru/000/pervobraz.jpg",Первый Образовательный
+https://github.com/edwin61a/test/raw/master/channels/ru.99_TV21.m3u8
 
 #EXTINF:-1 group-title="Кино",HTM HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
