@@ -54,7 +54,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.19_YU.0.m3u8
 #EXTINF:-1 tvg-id="1598" tvg-logo="che.jpg",Че
 https://github.com/edwin61a/test/raw/master/channels/ru.20_Che.0.m3u8
 
-#EXTINF:-1 tvg-id="504" tvg-logo="5kanal-ru.png",Пятый Канал
+#EXTINF:-1 tvg-id="427" tvg-logo="5kanal-ru.png",Пятый Канал
 https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatniy-kanal.m3u8
 
 #EXTINF:-1 tvg-id="1000" tvg-logo="otr.png",ОТР
