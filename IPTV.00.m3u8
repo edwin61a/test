@@ -64,7 +64,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_OTR.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.99_pyatnitsa.m3u8
 
 #EXTINF:-1 tvg-id="405" tvg-logo="zvezda.jpg",Звезда
-http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1810" tvg-logo="super-1.png" group-title="Обо всем",Супер
 https://github.com/edwin61a/test/raw/master/channels/ru.99_super.00.m3u8
