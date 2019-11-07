@@ -184,10 +184,43 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 
-#EXTINF:-1 group-title="radio",Radio
-#EXTINF:-1 radio="true" tvg-logo="Retro-FM.png",РЕТРО FM: 70-Е
-http://retro70.hostingradio.ru:8025/retro70-128.mp3
-#EXTINF:-1 radio="true" tvg-logo="Retro-FM.png",РЕТРО FM: 80-Е
+### MUSIC
+#EXTINF:0 tvg-id="muztv" group-title="Россия;Русский;Музыка",Муз-ТВ
+D:\Users\edwin\Documents\GitHub\test\channels\ru.99.muztv.m3u8
+#EXTINF:0 tvg-id="ru-tv" group-title="Россия;Русский;Музыка",RU.TV
+https://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+#EXTINF:0 tvg-id="1hd" group-title="Music",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/playlist.m3u8
+#EXTINF:0 tvg-id="no_epg_music" group-title="Music",Pulse
+D:\Users\edwin\Documents\GitHub\test\channels\ru.99_pulse.m3u8
+#EXTINF:0 tvg-id="shanson-tv" group-title="Россия;Русский;Музыка",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="no_epg_music" group-title="Украина;Украинский;Музыка",OTV
+http://212.26.146.148/hls/otv.m3u8
+
+
+### News / Weather
+#EXTINF:0 tvg-id="no_epg_news" group-title="News",BBC News
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+#EXTINF:0 tvg-id="pervy-meteo" group-title="Россия;Русский;Погода",Первый метео
+http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
+
+
+### Radio
+#EXTINF:0 tvg-chno="9000" group-title="radio",Radio "http://retrofm.ru/"
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM
+http://hls-01-retro.emgsound.ru/12/playlist.m3u8
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 70e
+#EXTGRP:Россия;Русский;радиостанция
+http://hls-01-retro70.emgsound.ru/1/playlist.m3u8
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 70e
+http://retro70.hostingradio.ru:8025/retro70-128.mp3|user-agent=Test/0.0.1
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 80e
 http://retro80.hostingradio.ru:8025/retro80-128.mp3
-#EXTINF:-1 radio="true" tvg-logo="Retro-FM.png",РЕТРО FM: 90-Е
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png" group-title="Россия;Русский;радиостанция",Ретро FM 90e
+#EXTGRP:Россия;Русский;радиостанция
 http://retro90.hostingradio.ru:8025/retro90-128.mp3
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Вечеринка Ретро FM
+http://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM Сан-Ремо
+http://hls-01-sanremo.emgsound.ru/5/playlist.m3u8
