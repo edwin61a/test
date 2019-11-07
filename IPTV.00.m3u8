@@ -9,10 +9,8 @@ https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.HD.00.m3u8
 
 #EXTINF:-1 tvg-id="447" tvg-logo="spas.jpg",Спас ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8
-
 #EXTINF:-1 tvg-id="349" tvg-logo="soyuz.png",Союз
 https://github.com/edwin61a/test/raw/master/channels/ru.05_tvsoyuz.m3u8
-
 #EXTINF:-1 tvg-id="1871" tvg-logo="soyuz.png",МузСоюз
 https://github.com/edwin61a/test/raw/master/channels/ru.06_muzsoyuz.m3u8
 
@@ -185,24 +183,24 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 
 ### MUSIC
-#EXTINF:0 tvg-id="muztv" group-title="Россия;Русский;Музыка",Муз-ТВ
-D:\Users\edwin\Documents\GitHub\test\channels\ru.99.muztv.m3u8
-#EXTINF:0 tvg-id="ru-tv" group-title="Россия;Русский;Музыка",RU.TV
+#EXTINF:0 tvg-id="897" group-title="Россия;Русский;Музыка",Муз-ТВ
+https://github.com/edwin61a/test/raw/master/channels/ru.99.muztv.m3u8
+#EXTINF:0 tvg-id="258" group-title="Россия;Русский;Музыка",RU.TV
 https://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
-#EXTINF:0 tvg-id="1hd" group-title="Music",1HD Music TV
+#EXTINF:0 tvg-id="1329" group-title="Music",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/playlist.m3u8
 #EXTINF:0 tvg-id="no_epg_music" group-title="Music",Pulse
-D:\Users\edwin\Documents\GitHub\test\channels\ru.99_pulse.m3u8
-#EXTINF:0 tvg-id="shanson-tv" group-title="Россия;Русский;Музыка",Шансон ТВ
+https://github.com/edwin61a/test/raw/master/channels/ru.99.pulse.m3u8
+#EXTINF:0 tvg-id="662" group-title="Россия;Русский;Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="no_epg_music" group-title="Украина;Украинский;Музыка",OTV
 http://212.26.146.148/hls/otv.m3u8
 
 
 ### News / Weather
-#EXTINF:0 tvg-id="no_epg_news" group-title="News",BBC News
+#EXTINF:0 tvg-id="828" group-title="News",BBC News
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:0 tvg-id="pervy-meteo" group-title="Россия;Русский;Погода",Первый метео
+#EXTINF:0 tvg-id="59" group-title="Россия;Русский;Погода",Первый метео
 http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 
 
