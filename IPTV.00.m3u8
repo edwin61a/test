@@ -2,7 +2,7 @@
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
 #EXTINF:-1 tvg-id="146" tvg-logo="pervyi-kanal.jpg",Первый канал
-https://github.com/edwin61a/test/raw/master/channels/ru03/01.perviy_HD.00.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru03/01.perviy_HD.00.m3u8|user-agent=Test/0.0.1
  
 #EXTINF:-1 tvg-id="317" tvg-logo="rossiya-1.jpg",Россия 1
 https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.HD.00.m3u8
@@ -21,7 +21,17 @@ https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
 #EXTINF:-1 tvg-id="1793",Неизвестная Планета
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 
-#EXTINF:-1 group-title="a",
+
+### Fashion
+#EXTINF:0 tvg-id="346" group-title="Русский;Fashion",World Fashion Channel Russia
+https://wfcrus.mediacdn.ru/cdn/wfcrus/playlist.m3u8
+#EXTINF:0 tvg-id="0" group-title="Fashion",World Fashion Channel International
+https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
+#EXTINF:0 tvg-id="661" group-title="Fashion",Fashion TV
+https://github.com/edwin61a/test/raw/master/channels/ru.99.fashiontv.m3u8
+
+
+#EXTINF:-1 group-title="Россия;Русский",
 #EXTINF:-1 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
 https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
 
@@ -197,15 +207,6 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 http://212.26.146.148/hls/otv.m3u8
 
 
-### Fashion
-#EXTINF:0 tvg-id="346" group-title="Русский;Fashion",World Fashion Channel Russia
-https://wfcrus.mediacdn.ru/cdn/wfcrus/playlist.m3u8
-#EXTINF:0 tvg-id="0" group-title="Fashion",World Fashion Channel International
-https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
-#EXTINF:0 tvg-id="661" group-title="Fashion",Fashion TV
-https://github.com/edwin61a/test/raw/master/channels/ru.99.fashiontv.m3u8
-
-
 ### News / Weather
 #EXTINF:0 tvg-id="828" group-title="News",BBC News
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
@@ -221,7 +222,7 @@ http://hls-01-retro.emgsound.ru/12/playlist.m3u8
 #EXTGRP:Россия;Русский;радиостанция
 http://hls-01-retro70.emgsound.ru/1/playlist.m3u8
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 70e
-http://retro70.hostingradio.ru:8025/retro70-128.mp3|user-agent=Test/0.0.1
+http://retro70.hostingradio.ru:8025/retro70-128.mp3
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 80e
 http://retro80.hostingradio.ru:8025/retro80-128.mp3
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png" group-title="Россия;Русский;радиостанция",Ретро FM 90e
