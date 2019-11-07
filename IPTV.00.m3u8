@@ -198,10 +198,12 @@ http://212.26.146.148/hls/otv.m3u8
 
 
 ### Fashion
-#EXTINF:0 tvg-id="346" group-title="Fashion",World Fashion Channel International
-https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
-#EXTINF:0 tvg-id="346" group-title="Fashion",World Fashion Channel Russia
+#EXTINF:0 tvg-id="346" group-title="Русский;Fashion",World Fashion Channel Russia
 https://wfcrus.mediacdn.ru/cdn/wfcrus/playlist.m3u8
+#EXTINF:0 tvg-id="0" group-title="Fashion",World Fashion Channel International
+https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
+#EXTINF:0 tvg-id="661" group-title="Fashion",Fashion TV
+https://github.com/edwin61a/test/raw/master/channels/ru.99.fashiontv.m3u8
 
 
 ### News / Weather
