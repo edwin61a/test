@@ -78,7 +78,7 @@ http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 #EXTINF:-1 group-title="Мир ТВ",## http://www.mirtv.ru/
 #EXTINF:-1 tvg-id="726" tvg-logo="mir.jpg",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mirtv.ru/images/default_logo_color.png",Мир International
+#EXTINF:-1 tvg-logo="mirtv.png",Мир International
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="1809" tvg-logo="mir.jpg",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
@@ -195,6 +195,13 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99.pulse.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="no_epg_music" group-title="Украина;Украинский;Музыка",OTV
 http://212.26.146.148/hls/otv.m3u8
+
+
+### Fashion
+#EXTINF:0 tvg-id="346" group-title="Fashion",World Fashion Channel International
+https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
+#EXTINF:0 tvg-id="346" group-title="Fashion",World Fashion Channel Russia
+https://wfcrus.mediacdn.ru/cdn/wfcrus/playlist.m3u8
 
 
 ### News / Weather
