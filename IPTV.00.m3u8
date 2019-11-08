@@ -216,8 +216,10 @@ http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 
 ### uncategorized
 #EXTINF:0 tvg-chno="8000" group-title="uncategorized",uncategorized
-#EXTINF:0 tvg-id="161",360° Подмосковье HD
-https://360tv-cdn.facecast.io/360/channel2/0.m3u8
+#EXTINF:0 tvg-id="1856",360° Новости
+https://edge-360-ll.facecast.io/360/channel1/index.m3u8
+#EXTINF:0 tvg-id="161",360°
+https://edge-360-ll.facecast.io/360/channel2/index.m3u8
 
 
 ### Radio
