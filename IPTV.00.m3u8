@@ -214,6 +214,12 @@ https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 
 
+### uncategorized
+#EXTINF:0 tvg-chno="8000" group-title="uncategorized",uncategorized
+#EXTINF:0 tvg-id="161",360° Подмосковье HD
+https://360tv-cdn.facecast.io/360/channel2/0.m3u8
+
+
 ### Radio
 #EXTINF:0 tvg-chno="9000" group-title="radio",Radio "http://retrofm.ru/"
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM
