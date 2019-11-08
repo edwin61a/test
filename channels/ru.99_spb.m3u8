@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000,RESOLUTION=1024x576
-https://stream2.topspb.tv/dev/smil:reserve.smil/chunklist_w682136227_b2096000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=896000,RESOLUTION=768x432
-https://stream2.topspb.tv/dev/smil:reserve.smil/chunklist_w682136227_b896000.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=396000,RESOLUTION=512x288
-https://stream2.topspb.tv/dev/smil:reserve.smil/chunklist_w682136227_b396000.m3u8
