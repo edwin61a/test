@@ -2,7 +2,7 @@
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
 #EXTINF:0 tvg-id="146" tvg-logo="pervyi-kanal.jpg",Первый канал
-https://github.com/edwin61a/test/raw/master/channels/ru03/01.perviy_HD.00.m3u8|user-agent=Test/0.0.1
+https://github.com/edwin61a/test/raw/master/channels/ru03/01.perviy_HD.00.m3u8
  
 #EXTINF:0 tvg-id="317" tvg-logo="rossiya-1.jpg",Россия 1
 https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.HD.00.m3u8
