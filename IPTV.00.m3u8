@@ -8,7 +8,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru03/01.perviy_HD.00.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.HD.00.m3u8
 
 #EXTINF:0 tvg-id="447" tvg-logo="spas.jpg",Спас ТВ
-https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8|user-agent=Lavf/58.12.100
 #EXTINF:0 tvg-id="349" tvg-logo="soyuz.png",Союз
 https://github.com/edwin61a/test/raw/master/channels/ru.05_tvsoyuz.m3u8
 #EXTINF:0 tvg-id="1871" tvg-logo="soyuz.png",МузСоюз
