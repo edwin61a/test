@@ -162,7 +162,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.99.spb.m3u8
 #EXTINF:0 tvg-id="812" tvg-logo="78.png",78 канал
 https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
-#EXTINF:0 tvg-id="1398" tvg-logo="47-kanal.png",47 Канал
+#EXTINF:0 tvg-id="1398" tvg-logo="47-kanal.png",ЛенТВ24
 http://lvms01.inmedis.ru:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 
 
@@ -220,7 +220,7 @@ http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 
 
 ### uncategorized
-#EXTINF:0 tvg-chno="8000" group-title="uncategorized",uncategorized
+#EXTINF:0 tvg-chno="800" group-title="uncategorized",uncategorized
 #EXTINF:0 tvg-id="1856",360° Новости
 https://edge-360-ll.facecast.io/360/channel1/index.m3u8
 #EXTINF:0 tvg-id="161",360°
@@ -230,7 +230,7 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 
 
 ### Radio
-#EXTINF:0 tvg-chno="9000" group-title="radio",Radio "http://retrofm.ru/"
+#EXTINF:0 tvg-chno="900" group-title="radio",Radio "http://retrofm.ru/"
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM
 http://hls-01-retro.emgsound.ru/12/playlist.m3u8
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 70e
