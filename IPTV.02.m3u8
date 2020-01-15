@@ -2,7 +2,7 @@
 ## tvguide: https://teleguide.info/download/new3/xmltv.xml.gz
 
 #EXTINF:-1 tvg-id="300125" tvg-logo="ru/glaz/pervyi-kanal.jpg",Первый канал HD
-https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy_HD.00.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy_HD.00.m3u8|user-agent=Lavf/58.12.100
 #EXTINF:-1 tvg-id="1" tvg-logo="ru/glaz/pervyi-kanal.jpg",Первый канал
 https://github.com/edwin61a/test/raw/master/channels/ru.01_perviy_SD.00.m3u8
 

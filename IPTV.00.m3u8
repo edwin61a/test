@@ -8,7 +8,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru03/01.perviy_SD.00.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.HD.00.m3u8
 
 #EXTINF:0 tvg-id="447" tvg-logo="spas.jpg",Спас ТВ
-https://github.com/edwin61a/test/raw/master/channels/ru.04_spastv.00.m3u8|user-agent=Lavf/58.12.100
+https://github.com/edwin61a/test/raw/master/channels/ru03/03.spastv.00.m3u8
 #EXTINF:0 tvg-id="349" tvg-logo="soyuz.png",Союз
 https://github.com/edwin61a/test/raw/master/channels/ru.05_tvsoyuz.m3u8
 #EXTINF:0 tvg-id="1871" tvg-logo="soyuz.png",МузСоюз
@@ -20,17 +20,6 @@ https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
 
 #EXTINF:0 tvg-id="1793",Неизвестная Планета
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-
-
-### Fashion
-#EXTINF:0 tvg-id="346" group-title="Русский;Fashion",World Fashion Channel Russia
-https://wfcrus.mediacdn.ru/cdn/wfcrus/playlist.m3u8
-#EXTINF:0 tvg-id="0" tvg-logo="WFC.jpg?" group-title="Fashion",World Fashion Channel International
-https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
-#EXTINF:0 tvg-id="0" group-title="Fashion",HD Fashion UA
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:0 tvg-id="661" group-title="Fashion",Fashion TV
-https://github.com/edwin61a/test/raw/master/channels/ru.99.fashiontv.m3u8
 
 
 #EXTINF:0 group-title="Россия;Русский",
@@ -50,7 +39,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99.TVC.00.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.0.m3u8
 
 #EXTINF:0 tvg-id="689" tvg-logo="ren-tv.jpg",РЕН ТВ
-https://github.com/edwin61a/test/raw/master/channels/ru.15_RenTV.0.m3u8
+https://github.com/edwin61a/test/raw/master/channels/ru03/13.rentv.0.m3u8
 
 #EXTINF:0 tvg-id="1791" tvg-logo="tnt-online.jpg",ТНТ
 https://github.com/edwin61a/test/raw/master/channels/ru.16_TNT.0.m3u8
@@ -193,6 +182,17 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="730" tvg-logo="tro.png" group-title="Развлечения",ТРО Союз (БелРос)
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+
+### Fashion
+#EXTINF:0 tvg-id="346" group-title="Русский;Fashion",World Fashion Channel Russia
+https://wfcrus.mediacdn.ru/cdn/wfcrus/playlist.m3u8
+#EXTINF:0 tvg-id="0" tvg-logo="WFC.jpg?" group-title="Fashion",World Fashion Channel International
+https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
+#EXTINF:0 tvg-id="0" group-title="Fashion",HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="661" group-title="Fashion",Fashion TV
+https://github.com/edwin61a/test/raw/master/channels/ru.99.fashiontv.m3u8
 
 
 ### MUSIC
