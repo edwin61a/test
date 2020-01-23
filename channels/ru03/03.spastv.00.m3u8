@@ -1,3 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=8000000,CLOSED-CAPTIONS=NONE,RESOLUTION=720x576,FRAME-RATE=25.000
-http://gorod.tv/s/live/12/163.158.184.153/1579104794/0.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=2
+https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1
+https://spas.mediacdn.ru/cdn/spas/tracks-v2a1/mono.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=0
+https://spas.mediacdn.ru/cdn/spas/tracks-v3a1/mono.m3u8
