@@ -1,3 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=720x576,FRAME-RATE=25.000,AVERAGE-BANDWIDTH=3002856,BANDWIDTH=4000000
-http://gorod.tv/s/live/11/163.158.184.153/1579110448/0.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1024000,RESOLUTION=1024x576
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
+#EXT-X-STREAM-INF:BANDWIDTH=512000,RESOLUTION=854x480
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b512000.m3u8?hls_proxy_host=dtmf-01
+#EXT-X-STREAM-INF:BANDWIDTH=256000,RESOLUTION=640x360
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b256000.m3u8?hls_proxy_host=dtmf-01
