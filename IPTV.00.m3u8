@@ -2,17 +2,17 @@
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
 #EXTINF:0 tvg-id="146" tvg-logo="pervyi-kanal.jpg",Первый канал
-https://github.com/edwin61a/test/raw/master/channels/ru03/01.perviy_SD.00.m3u8
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/01.perviy_SD.00.m3u8
 
 #EXTINF:0 tvg-id="317" tvg-logo="rossiya-1.jpg",Россия 1
-https://github.com/edwin61a/test/raw/master/channels/ru.02_rossia-1.HD.00.m3u8
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.02_rossia-1.HD.00.m3u8
 
 #EXTINF:0 tvg-id="447" tvg-logo="spas.jpg",Спас ТВ
-https://github.com/edwin61a/test/raw/master/channels/ru03/03.spastv.00.m3u8
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:0 tvg-id="349" tvg-logo="soyuz.png",Союз
-https://github.com/edwin61a/test/raw/master/channels/ru.05_tvsoyuz.m3u8
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:0 tvg-id="1871" tvg-logo="soyuz.png",МузСоюз
-https://github.com/edwin61a/test/raw/master/channels/ru.06_muzsoyuz.m3u8
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 #EXTINF:0 group-title="Documentary",
 #EXTINF:0 tvg-id="675" tvg-logo="moya-planeta.jpg",Моя Планета
@@ -22,7 +22,6 @@ https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 
 
-#EXTINF:0 group-title="Россия;Русский",
 #EXTINF:0 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
 https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
 
@@ -90,7 +89,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 tvg-id="53" tvg-logo="russkiy-illyuzion.jpg",Русский Иллюзион
 #EXTINF:0 tvg-id="123" tvg-logo="illyuzion-plus.jpg",Иллюзион +
 #EXTINF:0 tvg-id="127" tvg-logo="tv1000.png",TV1000
-https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000.m3u8
+http://185.176.117.242/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
 #EXTINF:0 tvg-id="125" tvg-logo="tv1000-action.png",TV1000 Action
 https://github.com/edwin61a/test/raw/master/channels/ru.99_TV1000-Action.m3u8
 #EXTINF:0 tvg-id="267" tvg-logo="tv1000-russkoe-kino.png",TV1000 Русское кино
@@ -140,11 +139,11 @@ https://github.com/edwin61a/test/raw/master/channels/ru.88.eurokino.m3u8
 
 
 #EXTINF:0 tvg-id="994",Русский Бестселлер
-https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Bestseller.m3u8
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.99_Russkiy_Bestseller.m3u8
 #EXTINF:0 tvg-id="1570" tvg-logo="russkiy-detektiv.png",Русский Детектив
-https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Detektiv.m3u8
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.99_Russkiy_Detektiv.m3u8
 #EXTINF:0 tvg-id="401",Русский Роман
-https://github.com/edwin61a/test/raw/master/channels/ru.99_Russkiy_Roman.m3u8
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.99_Russkiy_Roman.m3u8
 
 
 #EXTINF:0 tvg-id="690" tvg-logo="spb.png",Санкт-Петербург
@@ -152,7 +151,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.99.spb.m3u8
 #EXTINF:0 tvg-id="812" tvg-logo="78.png",78 канал
 https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
 #EXTINF:0 tvg-id="1398" tvg-logo="47-kanal.png",ЛенТВ24
-http://lvms01.inmedis.ru:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream_all/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="990" tvg-logo="animal-planet.jpg",Animal Planet HD
