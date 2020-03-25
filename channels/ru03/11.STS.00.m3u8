@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1120472
-https://sc.id-tv.kz/STS_34_35.m3u8?session=77c43830e97fe924067671e9ad6236f4
+https://sc.id-tv.kz/STS_34_35.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=740763
-https://sc.id-tv.kz/STS_36_37.m3u8?session=77c43830e97fe924067671e9ad6236f4
+https://sc.id-tv.kz/STS_36_37.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1556140
-https://sc.id-tv.kz/STS_38_39.m3u8?session=77c43830e97fe924067671e9ad6236f4
+https://sc.id-tv.kz/STS_38_39.m3u8
