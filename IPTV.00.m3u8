@@ -17,10 +17,10 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:0 group-title="Documentary",
 #EXTINF:0 tvg-id="675" tvg-logo="moya-planeta.jpg",Моя Планета
 https://github.com/edwin61a/test/raw/master/channels/ru.03_moyaplaneta.00.m3u8
-
 #EXTINF:0 tvg-id="1793",Неизвестная Планета
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-
+#EXTINF:0 tvg-id="0" tvg-logo="0.png",National Geographic
+http://188.35.9.12:21041/udp/085q
 
 #EXTINF:0 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
 https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
