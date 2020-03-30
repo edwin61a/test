@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1024000,RESOLUTION=1024x576
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
-#EXT-X-STREAM-INF:BANDWIDTH=512000,RESOLUTION=854x480
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b512000.m3u8?hls_proxy_host=dtmf-01
 #EXT-X-STREAM-INF:BANDWIDTH=256000,RESOLUTION=640x360
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b256000.m3u8?hls_proxy_host=dtmf-01
+#EXT-X-STREAM-INF:BANDWIDTH=512000,RESOLUTION=854x480
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b512000.m3u8?hls_proxy_host=dtmf-01
+#EXT-X-STREAM-INF:BANDWIDTH=1024000,RESOLUTION=1024x576
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
