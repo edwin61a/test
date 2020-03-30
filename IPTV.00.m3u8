@@ -35,7 +35,7 @@ https://github.com/edwin61a/test/raw/master/channels/ru.12_telekafe.0.m3u8
 https://github.com/edwin61a/test/raw/master/channels/ru.99.TVC.00.m3u8
 
 #EXTINF:0 tvg-id="137" tvg-logo="ntv.jpg",НТВ
-https://github.com/edwin61a/test/raw/master/channels/ru.14_NTV.0.m3u8
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/NTV.m3u8
 
 #EXTINF:0 tvg-id="689" tvg-logo="ren-tv.jpg",РЕН ТВ
 https://github.com/edwin61a/test/raw/master/channels/ru03/13.rentv.0.m3u8
