@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:-1
+## https://nat-geo.ru/
+#EXTINF:-1,Nаtional Geographic Россия
+http://188.35.9.12:21041/udp/085q
