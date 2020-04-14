@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/moyaplaneta
 #EXTINF:0 tvg-id="1793",Неизвестная Планета
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 #EXTINF:0 tvg-id="0" tvg-logo="0.png",National Geographic
-http://188.35.9.12:21041/udp/085q
+https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/nat-geo.m3u8
 
 #EXTINF:0 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
 https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
