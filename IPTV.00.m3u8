@@ -1,7 +1,7 @@
 #EXTM3U
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
-#EXTINF:0 tvg-id="146" tvg-logo="pervyi-kanal.jpg?",Первый канал
+#EXTINF:0 tvg-id="146" tvg-logo="pervyi-kanal.jpg?" group-title="Россия",Первый канал
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/01.perviy_SD.00.m3u8
 
 #EXTINF:0 tvg-id="317" tvg-logo="rossiya-1.jpg?",Россия 1
@@ -20,6 +20,9 @@ https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/moyaplaneta
 #EXTINF:0 tvg-id="0" tvg-logo="0.png?",National Geographic
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/nat-geo.m3u8
 
+#EXTINF:0 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
+## http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_DOMASHNY/variant.m3u8
+
 #EXTINF:0 tvg-id="649" tvg-logo="tv-centr.jpg?",ТВЦ
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.99.TVC.00.m3u8
 
@@ -32,6 +35,9 @@ https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.18_TV-3.0.m3u
 #EXTINF:0 tvg-id="405" tvg-logo="zvezda.jpg",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
+#EXTINF:0 tvg-id="933" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a00000151869753910c522399c2749fd174/z",ТНВ Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
+
 #EXTINF:0 tvg-id="371" tvg-logo="rossiya-k.jpg",Россия Культура
 http://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/variant.m3u8
 #EXTINF:0 tvg-id="0",Россия РТР
@@ -40,7 +46,8 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
 http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 
 
-#EXTINF:0 group-title="Мир ТВ",## http://www.mirtv.ru/
+#EXTINF:0 group-title="Мир ТВ",
+## http://www.mirtv.ru/
 #EXTINF:0 tvg-id="726" tvg-logo="mir.jpg",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 tvg-id="726" tvg-logo="mirtv.png" tvg-shift="-3",Мир (+3)
@@ -117,6 +124,11 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 ## https://raw.githubusercontent.com/edwin61a/test/master/channels/ru99/fashiontv.m3u8
 
 
+### Movies
+#EXTINF:0 tvg-id="" group-title="Россия;Кино",Наше любимое кино
+## http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?offset=1
+
+
 ### Music
 #EXTINF:0 tvg-id="662" group-title="Россия;Русский;Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
@@ -135,9 +147,6 @@ http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 
 #EXTINF:0 tvg-id="1793",Неизвестная Планета
 ## http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-
-#EXTINF:0 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
-## https://github.com/edwin61a/test/raw/master/channels/ru.17_Domashniy.0.m3u8
 
 #EXTINF:0 tvg-id="79" tvg-logo="sts.jpg",СТС
 ## https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/11.STS.00.m3u8
