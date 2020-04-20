@@ -18,7 +18,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:0 tvg-id="675" tvg-logo="moya-planeta.jpg?",Моя Планета
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/moyaplaneta.m3u8
 #EXTINF:0 tvg-id="102" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/1656757/2a000001701a00331db72e4aa34cc61de97f/340x200",National Geographic
-http://188.35.9.13:21041/udp/085q
+http://188.35.9.9:21041/udp/085q
 
 #EXTINF:0 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
 ## http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_DOMASHNY/variant.m3u8
