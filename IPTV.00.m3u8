@@ -17,8 +17,8 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:0 group-title="Documentary",
 #EXTINF:0 tvg-id="675" tvg-logo="moya-planeta.jpg?",Моя Планета
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/moyaplaneta.m3u8
-#EXTINF:0 tvg-id="0" tvg-logo="0.png?",National Geographic
-https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/nat-geo.m3u8
+#EXTINF:0 tvg-id="102" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/1656757/2a000001701a00331db72e4aa34cc61de97f/340x200",National Geographic
+http://188.35.9.13:21041/udp/085q
 
 #EXTINF:0 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
 ## http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_DOMASHNY/variant.m3u8
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.99.TVC.00.m3u
 https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/13.rentv.0.m3u8
 
 #EXTINF:0 tvg-id="279" tvg-logo="tv-3.jpg?",ТВ-3
-https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.18_TV-3.0.m3u8
+# http://stream2.kuvalda.tv/hls/tv3.m3u8|User-Agent=Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_1)
 
 #EXTINF:0 tvg-id="405" tvg-logo="zvezda.jpg",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
@@ -66,6 +66,8 @@ http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:0 tvg-id="0" tvg-logo="0.png" group-title="",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:0 tvg-id="0" tvg-logo="0.png" group-title="",Телеканал 86
+https://sitv.ru/hls/s861024.m3u8
 
 
 #EXTINF:0 group-title="Кино",HTM HD
@@ -149,7 +151,7 @@ http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 ## http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 
 #EXTINF:0 tvg-id="79" tvg-logo="sts.jpg",СТС
-## https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/11.STS.00.m3u8
+# https://sc.id-tv.kz/STS.m3u8
 
 #EXTINF:0 tvg-id="173" tvg-logo="telecafe.png",Телекафе
 ## https://github.com/edwin61a/test/raw/master/channels/ru.12_telekafe.0.m3u8
@@ -210,7 +212,7 @@ http://188.35.9.12:21021/udp/050o
 #EXTINF:0 tvg-id="485" tvg-logo="nashe-novoe-kino.png",Наше Новое Кино
 ##
 #EXTINF:0 tvg-id="12" tvg-logo="rodnoe-kino.png",Родное кино
-##
+http://178.217.72.66:80/225.201.2.56/playlist.m3u8
 #EXTINF:0 tvg-id="821" tvg-logo="kinokomediya.png",Кинокомедия
 ##
 #EXTINF:0 tvg-id="798" tvg-logo="indiyskoe-kino.png",Индийское кино
