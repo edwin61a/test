@@ -2,13 +2,13 @@
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
 #EXTINF:0 tvg-id="146" tvg-logo="pervyi-kanal.jpg?" group-title="Россия",Первый канал
-https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/01.perviy_SD.00.m3u8
+http://37.235.141.63:81/udp/225.50.66.93:1234
 
 #EXTINF:0 tvg-id="317" tvg-logo="rossiya-1.jpg?",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 
 #EXTINF:0 tvg-id="447" tvg-logo="spas.jpg?",Спас ТВ
-https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/03.spastv.00.m3u8
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:0 tvg-id="349" tvg-logo="soyuz.png?",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:0 tvg-id="1871" tvg-logo="soyuz.png?",МузСоюз
@@ -16,18 +16,20 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 
 #EXTINF:0 group-title="Documentary",
 #EXTINF:0 tvg-id="675" tvg-logo="moya-planeta.jpg?",Моя Планета
-https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/moyaplaneta.m3u8
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
 #EXTINF:0 tvg-id="102" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/1656757/2a000001701a00331db72e4aa34cc61de97f/340x200",National Geographic
 http://188.35.9.9:21041/udp/085q
+#EXTINF:0 tvg-id="325" tvg-logo="0.jpg?",Discovery Channel
+#EXTINF:0 tvg-id="409" tvg-logo="0.jpg?",Discovery Science
 
 #EXTINF:0 tvg-id="304" tvg-logo="domashniy.jpg",Домашний
 ## http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_DOMASHNY/variant.m3u8
 
-#EXTINF:0 tvg-id="649" tvg-logo="tv-centr.jpg?",ТВЦ
-https://raw.githubusercontent.com/edwin61a/test/master/channels/ru.99.TVC.00.m3u8
+#EXTINF:0 tvg-id="649" tvg-logo="https://static.tvc.ru/assets/img/logo.png?v=135",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="689" tvg-logo="ren-tv.jpg?",РЕН ТВ
-https://raw.githubusercontent.com/edwin61a/test/master/channels/ru03/13.rentv.0.m3u8
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="279" tvg-logo="tv-3.jpg?",ТВ-3
 # http://stream2.kuvalda.tv/hls/tv3.m3u8|User-Agent=Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_1)
@@ -78,12 +80,6 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 
 ### Ukraine
-## https://1plus1.video/tvguide/1plus1/online
-#EXTINF:0 tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/e7ad6959c1ce035db5fdf45fadfc751d.jpg" group-title="Украина",1+1
-https://live-fdc07-ams.1plus1.video/184723/smil:184723.smil/playlist.m3u8
-## https://1plus1.video/tvguide/sport/online
-#EXTINF:0 tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/555cdbf4257177fc9db7828ce27e2296.jpg" group-title="Украина",СПОРТ
-https://live-fdc07-ams.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 ## https://www.k1.ua/uk/live
 #EXTINF:0 tvg-id="0" group-title="Украина",К1 (UA)
 https://edge3.iptv.macc.com.ua/life/k1.m3u8
@@ -95,13 +91,19 @@ https://edge3.iptv.macc.com.ua/life/k1.m3u8
 https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8
 ## https://112.ua
 #EXTINF:0 tvg-id="0" group-title="Украина",112 Украина
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 ## via YouTube: https://www.youtube.com/watch?v=3Q11d6I21PE
-## https://34.ua/ru/online
 #EXTINF:0 tvg-id="0" group-title="Украина",34
 https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 ## 
 #EXTINF:0 tvg-id="0" group-title="Украина;Музыка",OTV
 http://212.26.146.148/hls/otv.m3u8
+## https://1plus1.video/tvguide/1plus1/online
+#EXTINF:0 tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/e7ad6959c1ce035db5fdf45fadfc751d.jpg" group-title="Украина",1+1
+https://live-fdc07-ams.1plus1.video/184723/smil:184723.smil/playlist.m3u8
+## https://1plus1.video/tvguide/sport/online
+#EXTINF:0 tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/555cdbf4257177fc9db7828ce27e2296.jpg" group-title="Украина",СПОРТ
+https://live-fdc07-ams.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 
 ## Центральный
@@ -132,14 +134,15 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 
 ### Music
-#EXTINF:0 tvg-id="662" group-title="Россия;Русский;Музыка",Шансон ТВ
+#EXTINF:0 tvg-id="662" group-title="Россия;Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-
+#EXTINF:0 tvg-id="0" group-title="Россия;Музыка",Страна FM TV HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 ### News / Weather
 #EXTINF:0 tvg-id="1798" group-title="Россия;Русский",Известия
 https://github.com/edwin61a/test/raw/master/channels/ru99/izvestia.m3u8
-#EXTINF:0 tvg-id="" group-title="Россия;Русский",Евроновости
+#EXTINF:0 tvg-id="23" group-title="Россия;Русский",Евроновости
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:0 tvg-id="59" group-title="Россия;Русский;Погода",Первый метео
 http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
@@ -256,15 +259,15 @@ http://178.217.72.66:80/225.201.2.56/playlist.m3u8
 ## https://github.com/edwin61a/test/raw/master/channels/ru.99.sts-love.m3u8
 
 
-#EXTINF:0 tvg-id="1396" tvg-logo="tochka-tv.png" group-title="Развлечения",Точка ТВ
+#EXTINF:0 tvg-id="1396" tvg-logo="https://tochkatv.tv/wp-content/uploads/2017/09/logo.png" group-title="Развлечения",Точка ТВ
 ## http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="331",Приключения HD
 ## 
 
-#EXTINF:0 tvg-id="774" tvg-logo="pervobraz.jpg",Первый Образовательный
-https://github.com/edwin61a/test/raw/master/channels/ru.99.pervy-obrazovatelny.m3u8
+#EXTINF:0 tvg-id="774" tvg-logo="http://www.sgutv.ru/img/hat_left.png",Первый Образовательный
+http://217.25.226.215:4022/udp/235.1.10.20:10000
 
 
 ### MUSIC
