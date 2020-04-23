@@ -76,8 +76,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://wfcrus.mediacdn.ru/cdn/wfcrus/playlist.m3u8
 #EXTINF:0 tvg-id="0" tvg-logo="WFC.jpg?" group-title="Fashion",World Fashion Channel International
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
-#EXTINF:0 tvg-id="0" group-title="Украина;Fashion",HD Fashion UA
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 group-title="Украина;Fashion" tvg-id="0" ,ID Fashion TV
+http://idfashion-hls1.cosmonova.net.ua/hls/hdfashion_ua_hi/index.m3u8
+# http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 tvg-id="661" group-title="Fashion",Fashion TV
 ## https://raw.githubusercontent.com/edwin61a/test/master/channels/ru99/fashiontv.m3u8
 
@@ -145,7 +146,7 @@ https://edge3.iptv.macc.com.ua/life/k1.m3u8
 #EXTINF:0 tvg-id="0" group-title="Украина",К2
 # 
 ## https://inter.ua/ru/live
-#EXTINF:0 tvg-id="0" group-title="Украина",Интер
+#EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://iptvx.one/icn/inter-ua.png",Интер
 https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8
 ## https://112.ua
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://iptvx.one/icn/112.png",112 Украина
