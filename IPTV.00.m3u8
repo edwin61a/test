@@ -26,7 +26,8 @@ http://212.0.215.106/Discovery/playlist.m3u8
 #EXTINF:0 tvg-id="1793" tvg-logo="https://iptvx.one/icn/neizvestnaya-planeta.png",Неизвестная Планета
 # http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 #EXTINF:0 tvg-id="1394" tvg-logo="http://ontivi.net/img/histori.png",History
-http://50.7.231.220:8081/114/index.m3u8?wmsAuthSign=1587686044p991i531i851i361S032ff3800833bf6e63aae33ca71bdb7b
+http://50.7.231.220:8081/114/index.m3u8?wmsAuthSign=1587768603p991i531i851i361Sa440bb55aa663a305967e75029122823
+
 
 #EXTINF:0 group-title="Обо всем" tvg-id="689" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
@@ -77,27 +78,31 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="Кино;Россия" tvg-id="834" tvg-logo="http://ontivi.net/img/domkino.png",Дом кино
 http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1587683949p991i531i851i361Sf4c1eed0c2d58d622aa86ac34909cf8f
 #EXTINF:0 group-title="Кино;Россия" tvg-id="1731" tvg-logo="http://ontivi.net/img/dom-kino-premium.png",Дом Кино Премиум HD 
-http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1587684242p991i531i851i361S263bbb593a744e51e0e6642b4d107d32
-#EXTINF:0 group-title="Кино;Россия" tvg-id="1790" tvg-logo="https://iptvx.one/icn/klassika-kino.png",Классика Кино
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+http://50.7.231.220:8081/187/index.m3u8?wmsAuthSign=1587768603p991i531i851i361Sa440bb55aa663a305967e75029122823
+#EXTINF:0 group-title="Кино;Россия" tvg-id="1037" tvg-logo="http://ontivi.net/img/kino-tv.png",Кино ТВ
+http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1587769135p991i531i851i361S663f110727fb37272735c3c30e6ca3d7
+#EXTINF:0 group-title="Кино;Россия" tvg-id="53" tvg-logo="http://ontivi.net/img/illuzionrus.png",Русский иллюзион
+http://50.7.231.220:8081/131/index.m3u8?wmsAuthSign=1587769451p991i531i851i361Sf3fceea0c964674de650239e06c63f78
+#EXTINF:0 group-title="Кино;Россия" tvg-id="123" tvg-logo="http://ontivi.net/img/illyuzion-pl.png",Иллюзион+
+http://50.7.231.220:8081/130/index.m3u8?wmsAuthSign=1587769574p991i531i851i361S7c70f288dc47a94cd2f592733c77db50
+#EXTINF:0 group-title="Кино;Россия" tvg-id="352" tvg-logo="https://iptvx.one/icn/eurokino.png",Еврокино
+http://50.7.231.220:8081/126/index.m3u8?wmsAuthSign=1587769019p991i531i851i361S095a963677548fdcb06c89620db779d6
 #EXTINF:0 group-title="Кино;Россия" tvg-id="0" tvg-logo="http://ontivi.net/img/lyubimoe-kino.png",Наше любимое кино
 http://50.7.172.58:8081/534/index.m3u8?wmsAuthSign=1587684477p991i531i851i361Sb0f465b98c47fe4371c8f55c147c6fc6
-#EXTINF:0 group-title="Кино;Россия" tvg-id="1037" tvg-logo="http://ontivi.net/img/kino-tv.png",Кино ТВ
-http://50.7.172.58:8081/504/index.m3u8?wmsAuthSign=1587684575p991i531i851i361S481d888fbff95c334e4c3925116dd430
-#EXTINF:0 tvg-id="352" tvg-logo="https://iptvx.one/icn/eurokino.png",Еврокино
-## https://github.com/edwin61a/test/raw/master/channels/ru.88.eurokino.m3u8
-#EXTINF:0 tvg-id="608" tvg-logo="https://iptvx.one/icn/hollywood.png",Hollywood
+#EXTINF:0 group-title="Кино;Россия" tvg-id="608" tvg-logo="https://iptvx.one/icn/hollywood.png",Hollywood
+http://50.7.172.58:8081/507/index.m3u8?wmsAuthSign=1587769064p991i531i851i361S0f4bb72decf79d2e022e8f40f50303c9
+#EXTINF:0 group-title="Кино;Россия" tvg-id="934" tvg-logo="https://iptvx.one/icn/hollywood-hd.png",Hollywood HD
 ##
-#EXTINF:0 tvg-id="934" tvg-logo="https://iptvx.one/icn/hollywood-hd.png",Hollywood HD
+#EXTINF:0 group-title="Кино;Россия" tvg-id="686" tvg-logo="https://iptvx.one/icn/feniks-plus-kino.png",Феникс+ Кино
 ##
-#EXTINF:0 tvg-id="686" tvg-logo="https://iptvx.one/icn/feniks-plus-kino.png",Феникс+ Кино
-##
-#EXTINF:0 tvg-id="401" tvg-logo="http://ontivi.net/img/russkiy-roman.png",Русский роман
+#EXTINF:0 group-title="Кино;Россия" tvg-id="401" tvg-logo="http://ontivi.net/img/russkiy-roman.png",Русский роман
 http://50.7.172.58:8081/556/index.m3u8?wmsAuthSign=1587685072p991i531i851i361S8139cde52e82cd3f63340d7f26bfcd3b
-#EXTINF:0 tvg-id="1570" tvg-logo="http://ontivi.net/img/russkiy-detektiv.png",Русский Детектив
-http://50.7.231.220:8081/136/index.m3u8?wmsAuthSign=1587685243p991i531i851i361S0ed4ffff9697a0182a6b99735c6c6907
-#EXTINF:0 tvg-id="994" tvg-logo="http://ontivi.net/img/russkiy-bestseller.png",Русский Бестселлер
+#EXTINF:0 group-title="Кино;Россия" tvg-id="1570" tvg-logo="http://ontivi.net/img/russkiy-detektiv.png",Русский Детектив
+http://50.7.231.220:8081/136/index.m3u8?wmsAuthSign=1587768603p991i531i851i361Sa440bb55aa663a305967e75029122823
+#EXTINF:0 group-title="Кино;Россия" tvg-id="994" tvg-logo="http://ontivi.net/img/russkiy-bestseller.png",Русский Бестселлер
 http://50.7.231.220:8081/135/index.m3u8?wmsAuthSign=1587685274p991i531i851i361Sc9a06d9a77b5646d4e69bec913e94916
+#EXTINF:0 group-title="Кино;Россия" tvg-id="1790" tvg-logo="https://iptvx.one/icn/klassika-kino.png",Классика Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
 
 ### Music
@@ -237,8 +242,6 @@ https://hls.goodgame.ru/manifest/146576_master.m3u8
 ## http://176.120.119.93:65123/udp/239.0.0.178:4000
 
 
-#EXTINF:0 tvg-id="53" tvg-logo="russkiy-illyuzion.jpg",Русский Иллюзион
-#EXTINF:0 tvg-id="123" tvg-logo="illyuzion-plus.jpg",Иллюзион +
 #EXTINF:0 tvg-id="309" tvg-logo="tv-xxi.jpg",TV XXI (TV21)
 ## http://178.163.5.191:4022/udp/234.0.0.187:2000
 
