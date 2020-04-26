@@ -65,13 +65,13 @@ http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 #EXTINF:0 group-title="Мир ТВ" tvg-id="726" tvg-logo="https://iptvx.one/icn/mir.png",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 group-title="Мир ТВ" tvg-id="726" tvg-logo="https://iptvx.one/icn/mir.png" tvg-shift="-2",Мир (+2)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+# http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:0 group-title="Мир ТВ" tvg-id="726" tvg-logo="https://iptvx.one/icn/mir.png" tvg-shift="-3",Мир (+3)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0 group-title="Мир ТВ" tvg-id="1809" tvg-logo="https://iptvx.one/icn/mir-premium.png",Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+# http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:0 group-title="Мир ТВ" tvg-id="1331" tvg-logo="https://iptvx.one/icn/mir24.png",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 group-title="Мир ТВ" tvg-id="1809" tvg-logo="https://iptvx.one/icn/mir-premium.png",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 
 ### Movies
@@ -110,13 +110,14 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 
 ### Music
 #EXTINF:0 group-title="Россия;Музыка" tvg-id="662" tvg-logo="https://iptvx.one/icn/shanson-tv.png",Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:0 group-title="Россия;Музыка" tvg-id="1821" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000016b27444a5e22fd9fb81d75bd31c5/170x100",Страна FM TV HD
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+# https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:0 group-title="Россия;Музыка" tvg-id="1821" tvg-logo="http://www.radiobells.com/stations/stranafm.jpg",Страна FM TV HD
+# http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0 group-title="Россия;Музыка" tvg-id="897",Муз-ТВ
 ## https://github.com/edwin61a/test/raw/master/channels/ru.99.muztv.m3u8
 #EXTINF:0 group-title="Россия;Музыка" tvg-id="258",RU.TV
-## https://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+# https://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+# https://rut-v.gcdn.co/streams/1410_1326/playlist.m3u8
 #EXTINF:0 group-title="Россия;Музыка" tvg-id="1329",1HD Music TV
 ## http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/playlist.m3u8
 #EXTINF:0 group-title="Россия;Музыка" tvg-id="0",Pulse
@@ -126,11 +127,12 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 ### News / Weather
 #EXTINF:0 group-title="Россия;Русский" tvg-id="1798" tvg-logo="https://iptvx.one/icn/izvestia.png",Известия
 https://github.com/edwin61a/test/raw/master/channels/ru99/izvestia.m3u8
-#EXTINF:0 group-title="Россия;Русский" tvg-id="23" tvg-logo="https://iptvx.one/icn/euronews.png",Евроновости
+#EXTINF:0 group-title="Россия;Русский" tvg-id="23" tvg-logo="https://ru.euronews.com/android-chrome-192x192.png",Евроновости
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:0 group-title="Россия;Погода" tvg-id="59" tvg-logo="https://avatars.mds.yandex.net/get-tv-shows/54381/2a0000015185959f9de140f132adc08e36e5/orig",Первый метео
+#EXTINF:0 group-title="Россия;Погода" tvg-id="59" tvg-logo="http://tele.smotr.online/img/meteo.jpg",Первый метео
 http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 #EXTINF:0 group-title="News" tvg-id="828" tvg-logo="https://iptvx.one/icn/bbc.png",BBC News
+
 ## https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 
 
@@ -195,9 +197,12 @@ http://212.26.146.148/hls/otv.m3u8
 #
 ## http://www.otv.ua/
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/e7ad6959c1ce035db5fdf45fadfc751d.jpg",1+1
-https://live-fdc07-ams.1plus1.video/184723/smil:184723.smil/playlist.m3u8|User-Agent=Mosaic/1.0
-# https://live-fdc07-ams.1plus1.video/184723/smil:184723.smil/playlist.m3u8
+https://live-fdc07-ams.1plus1.video/184723/smil:184723.smil/playlist.m3u8
 ## https://1plus1.video/tvguide/1plus1/online
+#EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/ff54fc3a2b84954caecb84825b8badf3.jpg",2+2 дивитись
+
+#EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/201eed4a8938b0f47f1d88902234066f.jpg",ТЕТ дивитись
+https://live-fdc07-ams.1plus1.video/190731/smil:190731.smil/playlist.m3u8
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/555cdbf4257177fc9db7828ce27e2296.jpg",СПОРТ
 # https://live-fdc07-ams.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 ## https://1plus1.video/tvguide/sport/online
@@ -303,12 +308,12 @@ http://217.25.226.215:4022/udp/235.1.10.20:10000
 
 ### uncategorized
 #EXTINF:0 tvg-chno="801" group-title="uncategorized",uncategorized
-#EXTINF:0 tvg-id="1856" tvg-logo="https://iptvx.one/icn/360-news.png",360° Новости
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-## https://edge-360-ll.facecast.io/360/channel1/index.m3u8
 #EXTINF:0 tvg-id="161" tvg-logo="https://iptvx.one/icn/360-podmoskovie.png",360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 ## https://edge-360-ll.facecast.io/360/channel2/index.m3u8
+#EXTINF:0 tvg-id="1856" tvg-logo="https://iptvx.one/icn/360-news.png",360° Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+## https://edge-360-ll.facecast.io/360/channel1/index.m3u8
 #EXTINF:0 tvg-id="217" tvg-logo="https://iptvx.one/icn/8kanal-ru.png",8 Канал
 ## http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png",Настоящее время
@@ -317,10 +322,15 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 # http://212.0.215.106/CurrentTime/playlist.m3u8
 #EXTINF:0 tvg-id="0" tvg-logo="https://iptvx.one/icn/novoe-televidenie.png",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:0 tvg-id="0" tvg-logo="http://ontivi.net/img/kuhnya-tv.png",Кухня ТВ
+#EXTINF:0 tvg-id="614" tvg-logo="http://ontivi.net/img/kuhnya-tv.png",Кухня ТВ
 http://50.7.172.58:8081/196/index.m3u8?wmsAuthSign=1587770886p991i531i851i361Sf1623577fe2e70c6acb129234acdea41
 #EXTINF:0 tvg-id="0" tvg-logo="http://tv-express.ru/templates/default/images/logonew.png",Экспресс
 http://serv25.vintera.tv:8081/expres_penza/penzatv/playlist.m3u8
+#EXTINF:0 tvg-id="1765" tvg-logo="http://www.tvrus.eu/templates/tvruseu/images/logo.png",Русское спутниковое телевидение в Германии
+https://bemtv.parom.tv/hls/stream274/index.m3u8
+## http://www.tvrus.eu/
+
+
 
 ### Radio
 #EXTINF:0 tvg-chno="901" group-title="radio",Radio "http://retrofm.ru/"
