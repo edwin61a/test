@@ -284,6 +284,7 @@ https://bemtv.parom.tv/hls/stream274/index.m3u8
 https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream_all/playlist.m3u8
 #EXTINF:0 tvg-id="812" tvg-logo="https://iptvx.one/icn/78.png",78 канал
 ## https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
+
 ## Surgut
 #EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://iptvx.one/icn/86-surgut.png",СУРГУТИНФОРМТВ 
 # http://217.8.90.68:8080/hls/stvmain.m3u8 ## Connection refused
@@ -292,6 +293,7 @@ https://sitv.ru/hls/s86.m3u8
 # https://sitv.ru/hls/s86.m3u8      1280x720
 # https://sitv.ru/hls/s861024.m3u8  1024x576
 # https://sitv.ru/hls/s86512.m3u8   640x360
+
 
 
 ### Moldovia
@@ -307,6 +309,7 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:0 group-title="Развлечения" tvg-id="730" tvg-logo="http://belros.tv/local/templates/2019/img/logo.png",БелРос / ТРО Союза
 http://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 # http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
 
 
 ### Ukraine
@@ -329,6 +332,7 @@ https://edge2.iptv.macc.com.ua/img/ntn_2/index.m3u8
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://iptvx.one/icn/112.png",112 Украина
 http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8  
 
+## https://1plus1.video/
 ## https://1plus1.video/tvguide/1plus1/online
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/e7ad6959c1ce035db5fdf45fadfc751d.jpg",1+1
 https://live-fdc07-ams.1plus1.video/184723/smil:184723.smil/playlist.m3u8
@@ -338,10 +342,12 @@ https://live-fdc07-ams.1plus1.video/187534/smil:187534.smil/playlist.m3u8
 https://live-fdc07-ams.1plus1.video/190731/smil:190731.smil/playlist.m3u8
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/73e7ba61acfdf8df3135065f4b791396.jpg",Бігуді
 https://live-fdc07-ams.1plus1.video/335987/smil:335987.smil/playlist.m3u8
-#EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://1plus1.video/static/player/i/logo/color/plusplus.svg",ПЛЮСПЛЮС
-#
-#EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://1plus1.video/static/player/i/logo/color/uniantv.svg",УНІАН ТБ
-#
+## https://1plus1.video/static/player/i/logo/color/plusplus.svg https://images.1plus1.video/other-1/d5a9a8eb224f20256dbef867438128c6.jpg
+#EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/5fbbe1a1ac2f1faac9f476e4fb24fe01.png",ПЛЮСПЛЮС
+https://live-fdc07-ams.1plus1.video/209602/smil:209602.smil/playlist.m3u8
+## https://1plus1.video/static/player/i/logo/color/uniantv.svg
+#EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/0ddf7d215b1fc07c4e441ef3850f5da4.jpg",УНІАН ТБ
+https://live-fdc07-ams.1plus1.video/288721/smil:288721.smil/playlist.m3u8
 ## https://1plus1.video/tvguide/sport/online  https://1plus1.video/static/player/i/logo/color/sport.svg
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/555cdbf4257177fc9db7828ce27e2296.jpg",СПОРТ
 https://live-fdc07-ams.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -359,6 +365,7 @@ https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 #EXTINF:0 group-title="Украина;Музыка" tvg-id="0" tvg-logo="https://iptvx.one/icn/otv-music.png",OTV
 # http://212.26.146.148/hls/otv.m3u8 
 # http://rtmp-4.adamant.net/hls/otv.m3u8
+
 ## http://www.otv.ua/
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="http://www.otv.ua/wp-content/uploads/2019/07/OTV_logo_250x170.png",OTV
 # rtmp://91.193.128.233:1935/live/otv.stream_240p
