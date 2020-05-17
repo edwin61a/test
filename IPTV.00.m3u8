@@ -2,8 +2,8 @@
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
 #EXTINF:0 group-title="Россия" tvg-id="146" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001600801d5c4aa045cec97f5f97429/orig",Первый канал
-http://37.235.156.204:81/udp/225.50.66.93:1234
-# http://37.235.141.63:81/udp/225.50.66.93:1234
+http://37.235.141.63:81/udp/225.50.66.93:1234
+# http://37.235.156.204:81/udp/225.50.66.93:1234
 # https://cdn9.1internet.tv/dash-live13/streams/1tv/1tvdash.mpd?e=1588398260
 #EXTINF:0 group-title="Россия" tvg-id="317" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a000001600801ff1c768e131f61bc108ce4/orig",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
@@ -286,7 +286,7 @@ https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream
 ## https://github.com/edwin61a/test/raw/master/channels/ru.99_78.m3u8
 
 ## Surgut
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://iptvx.one/icn/86-surgut.png",СУРГУТИНФОРМТВ 
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://sitv.ru/smb/sitv.png",СургутИнформТВ 
 # http://217.8.90.68:8080/hls/stvmain.m3u8 ## Connection refused
 #EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://iptvx.one/icn/86-surgut.png",86 Сургут
 https://sitv.ru/hls/s86.m3u8
@@ -325,7 +325,8 @@ http://50.7.172.58:8081/530/index.m3u8?wmsAuthSign=1587683730p991i531i851i361S7c
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://iptvx.one/icn/inter-ua.png",Интер
 https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://ntn.ua/images/new_logo.png",НТН
-https://edge2.iptv.macc.com.ua/img/ntn_2/index.m3u8
+## currently unavailable 
+# https://edge2.iptv.macc.com.ua/img/ntn_2/index.m3u8
 
 ## https://112.ua
 ## via YouTube: https://www.youtube.com/watch?v=3Q11d6I21PE
@@ -334,23 +335,24 @@ http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 
 ## https://1plus1.video/
 ## https://1plus1.video/tvguide/1plus1/online
+## authorization in chunklists. giving a 404 error. need to find out what headers or parameters webpage adds to get this to work
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/e7ad6959c1ce035db5fdf45fadfc751d.jpg",1+1
-https://live-fdc07-ams.1plus1.video/184723/smil:184723.smil/playlist.m3u8
+# https://live-fdc07-ams.1plus1.video/184723/smil:184723.smil/playlist.m3u8
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/ff54fc3a2b84954caecb84825b8badf3.jpg",2+2
-https://live-fdc07-ams.1plus1.video/187534/smil:187534.smil/playlist.m3u8
+# https://live-fdc07-ams.1plus1.video/187534/smil:187534.smil/playlist.m3u8
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/201eed4a8938b0f47f1d88902234066f.jpg",ТЕТ
-https://live-fdc07-ams.1plus1.video/190731/smil:190731.smil/playlist.m3u8
+# https://live-fdc07-ams.1plus1.video/190731/smil:190731.smil/playlist.m3u8
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/73e7ba61acfdf8df3135065f4b791396.jpg",Бігуді
-https://live-fdc07-ams.1plus1.video/335987/smil:335987.smil/playlist.m3u8
+# https://live-fdc07-ams.1plus1.video/335987/smil:335987.smil/playlist.m3u8
 ## https://1plus1.video/static/player/i/logo/color/plusplus.svg https://images.1plus1.video/other-1/d5a9a8eb224f20256dbef867438128c6.jpg
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/5fbbe1a1ac2f1faac9f476e4fb24fe01.png",ПЛЮСПЛЮС
-https://live-fdc07-ams.1plus1.video/209602/smil:209602.smil/playlist.m3u8
+# https://live-fdc07-ams.1plus1.video/209602/smil:209602.smil/playlist.m3u8
 ## https://1plus1.video/static/player/i/logo/color/uniantv.svg
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/0ddf7d215b1fc07c4e441ef3850f5da4.jpg",УНІАН ТБ
-https://live-fdc07-ams.1plus1.video/288721/smil:288721.smil/playlist.m3u8
+# https://live-fdc07-ams.1plus1.video/288721/smil:288721.smil/playlist.m3u8
 ## https://1plus1.video/tvguide/sport/online  https://1plus1.video/static/player/i/logo/color/sport.svg
 #EXTINF:0 group-title="Украина" tvg-id="0" tvg-logo="https://images.1plus1.video/other-1/555cdbf4257177fc9db7828ce27e2296.jpg",СПОРТ
-https://live-fdc07-ams.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+# https://live-fdc07-ams.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="0" tvg-logo="https://teleon.tv/images/logos/central-ua.png" group-title="Украина",Центральный
 http://159.224.182.177:8080/Live_wildcard/stream/playlist.m3u8
