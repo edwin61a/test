@@ -20,15 +20,16 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:0 tvg-id="675" tvg-logo="https://iptvx.one/icn/moya-planeta.png",Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
 #EXTINF:0 tvg-id="102" tvg-logo="https://iptvx.one/icn/national-geographic-hd.png",National Geographic
-http://188.35.9.9:21041/udp/085q
+http://188.35.9.11:21041/udp/085q
 #EXTINF:0 tvg-id="325" tvg-logo="https://iptvx.one/icn/discovery-channel.png",Discovery Channel
-http://212.0.215.106/Discovery/playlist.m3u8
+# http://212.0.215.106/Discovery/playlist.m3u8
 #EXTINF:0 tvg-id="409" tvg-logo="https://iptvx.one/icn/discovery-science.png",Discovery Science
 #
 #EXTINF:0 tvg-id="1793" tvg-logo="https://iptvx.one/icn/neizvestnaya-planeta.png",Неизвестная Планета
 # http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 #EXTINF:0 tvg-id="1394" tvg-logo="http://ontivi.net/img/histori.png",History
-http://50.7.231.220:8081/114/index.m3u8?wmsAuthSign=1587768603p991i531i851i361Sa440bb55aa663a305967e75029122823
+http://50.7.231.220:8081/114/index.m3u8?wmsAuthSign=1591229112p991i531i851i361S823a860ac6a96cf9907bb2c7d9ab7b1d
+# http://50.7.231.220:8081/114/index.m3u8?wmsAuthSign=1587768603p991i531i851i361Sa440bb55aa663a305967e75029122823
 
 
 #EXTINF:0 group-title="Обо всем" tvg-id="689" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
@@ -373,9 +374,27 @@ https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 # rtmp://91.193.128.233:1935/live/otv.stream_240p
 
 
+### News
+###
+#EXTINF:0 tvg-chno="891" group-title="news",News
+#EXTINF:0 group-title="News" tvg-id="828" tvg-logo="",BBC World News
+#EXTINF:0 group-title="News" tvg-id="495" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png",CNN
+https://cnngo1.akamaized.net/hls/live/599236/PROD-cnnlive2/master.m3u8?__b__=650
+#EXTINF:0 group-title="News" tvg-id="0" tvg-logo="https://s.abcnews.com/images/Site/abc_default_image_wn.jpg",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 group-title="News" tvg-id="0" tvg-logo="https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png?v=2.14fa645b3f97b6d0ee22d668a5fb5f04d072ad1a",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:0 group-title="News" tvg-id="0" tvg-logo="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",NBC News
+https://nbcnews2.akamaized.net/hls/live/723426/nbc-news0603091545-ua/master.m3u8
+
+## NL radio
+#EXTINF:0 tgv-id="0" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",Q music
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
 
 ### Radio
-#EXTINF:0 tvg-chno="901" group-title="radio",Radio
+###
+#EXTINF:0 tvg-chno="901" group-title="radio",Radio RU
 ## "http://retrofm.ru/"
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM
 http://hls-01-retro.emgsound.ru/12/playlist.m3u8
@@ -393,3 +412,11 @@ http://retro90.hostingradio.ru:8025/retro90-128.mp3
 http://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM Сан-Ремо
 http://hls-01-sanremo.emgsound.ru/5/playlist.m3u8
+##
+##
+#EXTINF:0 tvg-chno="921" group-title="radio",Radio NL
+## https://www.onlineluisteren.nl/radio-veronica-luisteren.html
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://www.radiozenders.fm/media/images/stations-large/radio-veronica.png",VERONICA
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",Q music
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_32.aac
