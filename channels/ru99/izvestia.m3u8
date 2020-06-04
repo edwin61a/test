@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=994144,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
-http://hls-igi.cdnvideo.ru/igi/igi1_hq/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.igi
+http://hls-igi.cdnvideo.ru/igi/igi_lq/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.igi
 #EXT-X-STREAM-INF:BANDWIDTH=1488508,RESOLUTION=1280x720,CODECS="avc1.66.31,mp4a.40.2"
 http://hls-igi.cdnvideo.ru/igi/igi_sq/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.igi
 #EXT-X-STREAM-INF:BANDWIDTH=3404003,RESOLUTION=1920x1080,CODECS="avc1.66.40,mp4a.40.2"
