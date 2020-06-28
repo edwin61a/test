@@ -2,9 +2,9 @@
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
 #EXTINF:0 group-title="Россия" tvg-id="146" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001600801d5c4aa045cec97f5f97429/orig",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%206.1)
+#EXTVLCOPT:http-referrer=https://www.1tv.ru
 http://37.235.141.63:81/udp/225.50.66.93:1234
-# http://37.235.156.204:81/udp/225.50.66.93:1234
-# https://cdn9.1internet.tv/dash-live13/streams/1tv/1tvdash.mpd?e=1588398260
 #EXTINF:0 group-title="Россия" tvg-id="317" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a000001600801ff1c768e131f61bc108ce4/orig",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 
@@ -20,15 +20,17 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:0 tvg-id="675" tvg-logo="https://iptvx.one/icn/moya-planeta.png",Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
 #EXTINF:0 tvg-id="102" tvg-logo="https://iptvx.one/icn/national-geographic-hd.png",National Geographic
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0 tvg-id="325" tvg-logo="https://iptvx.one/icn/discovery-channel.png",Discovery Channel
-# 
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+##
 #EXTINF:0 tvg-id="409" tvg-logo="https://iptvx.one/icn/discovery-science.png",Discovery Science
-#
+##
 #EXTINF:0 tvg-id="1793" tvg-logo="https://iptvx.one/icn/neizvestnaya-planeta.png",Неизвестная Планета
-# 
+##
 #EXTINF:0 tvg-id="1394" tvg-logo="http://ontivi.net/img/histori.png",History
-# 
+##
 
 
 #EXTINF:0 group-title="Обо всем" tvg-id="689" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
@@ -37,11 +39,8 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 #EXTINF:0 group-title="Обо всем" tvg-id="304" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
-# http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8|User-Agent=Mozilla/5.0
-# http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_DOMASHNY/variant.m3u8
 #EXTINF:0 group-title="Обо всем" tvg-id="1810" tvg-logo="https://iptvx.one/icn/super.png",Супер
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_SUPER/variant.m3u8|User-Agent=Mozilla/5.0
-# http://188.243.212.85:4444/udp/239.239.3.51:5239
 #EXTINF:0 group-title="Обо всем" tvg-id="649" tvg-logo="https://static.tvc.ru/assets/img/logo.png?v=135",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:0 group-title="Обо всем" tvg-id="279" tvg-logo="https://iptvx.one/icn/tv3.png",ТВ-3
