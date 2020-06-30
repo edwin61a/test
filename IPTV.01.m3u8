@@ -1,7 +1,8 @@
 #EXTM3U
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
-#EXTINF:0 group-title="Россия" tvg-id="146" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001600801d5c4aa045cec97f5f97429/orig",Первый канал
+#EXTINF:0 tvg-id="146" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001600801d5c4aa045cec97f5f97429/orig" group-title="Россия",Первый канал
+#EXTGRP:Россия
 #EXTVLCOPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%206.1)
 #EXTVLCOPT:http-referrer=https://www.1tv.ru
 http://37.235.141.63:81/udp/225.50.66.93:1234
@@ -20,13 +21,8 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:0 tvg-id="675" tvg-logo="https://iptvx.one/icn/moya-planeta.png",Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
 #EXTINF:0 tvg-id="102" tvg-logo="https://iptvx.one/icn/national-geographic-hd.png",National Geographic
-http://188.35.9.11:21041/udp/085q
+http://188.35.9.5:10005/stolen/149u/imposter.rar
 #EXTINF:0 tvg-id="325" tvg-logo="https://iptvx.one/icn/discovery-channel.png",Discovery Channel
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTVLCOPT:network-caching=1000
-# http://some/url|Cookie=<urlencodedcookie> - set a cookie
-# http://some/url|Something=<urlencodedvalue> - set a value in the request header
-# http://some/url|Cookie=<urlencodedcookie>&Something=<urlencodedvalue> - set a cookie
 # 
 #EXTINF:0 tvg-id="409" tvg-logo="https://iptvx.one/icn/discovery-science.png",Discovery Science
 #
@@ -137,7 +133,6 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
 # 
 #EXTINF:0 group-title="Украина;Fashion" tvg-id="0" tvg-logo="https://iptvx.one/icn/hdfashion-lifestyle.png",HDFASHION & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-# 
 #EXTINF:0 tvg-id="661" group-title="Fashion",Fashion TV
 # 
 
@@ -445,7 +440,7 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 ### Radio
 ###
 #EXTINF:0 tvg-chno="901" group-title="radio",Radio RU
-## "http://retrofm.ru/"
+#EXTVLCOPT:http-referrer=http://retrofm.ru/
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM
 http://hls-01-retro.emgsound.ru/12/playlist.m3u8
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 70e
@@ -470,3 +465,12 @@ http://hls-01-sanremo.emgsound.ru/5/playlist.m3u8
 http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",Q music
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_32.aac
+
+#EXTINF:0 tvg-id="0" tvg-logo="test.png" group-title="somegroup"
+#EXTGRP:somegroup
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:http-referrer=https://1tv.ru
+#EXTVLCOPT:network-caching=1000
+# http://some/url|Cookie=<urlencodedcookie> - set a cookie
+# http://some/url|Something=<urlencodedvalue> - set a value in the request header
+# http://some/url|Cookie=<urlencodedcookie>&Something=<urlencodedvalue> - set a cookie
