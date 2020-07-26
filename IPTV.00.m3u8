@@ -2,34 +2,35 @@
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
 #EXTINF:0 group-title="Россия" tvg-id="146" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001600801d5c4aa045cec97f5f97429/orig",Первый канал
-#EXTVLCOPT:http-user-agent=Mozilla%2F5.0%20(Windows%20NT%206.1)
-#EXTVLCOPT:http-referrer=https://www.1tv.ru
-http://37.235.141.63:81/udp/225.50.66.93:1234
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.1tv.ru/live
+https://edge3.1internet.tv/dash-live11/streams/1tv/1tvdash1.mpd
+
 #EXTINF:0 group-title="Россия" tvg-id="317" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a000001600801ff1c768e131f61bc108ce4/orig",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 
 #EXTINF:0 group-title="Россия" tvg-id="447" tvg-logo="http://spastv.ru/wp-content/uploads/2018/07/logo-1.png",Спас ТВ
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:0 group-title="Россия" tvg-id="349" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a00000162ceac2b0bea63f28de6be06a6b8/z",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:0 group-title="Россия" tvg-id="1871" tvg-logo="https://iptvx.one/icn/muzsoyuz.png",МузСоюз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="675" tvg-logo="https://iptvx.one/icn/moya-planeta.png",Моя Планета
-http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
+https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
 
 
 #EXTINF:0 group-title="Обо всем" tvg-id="689" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 
 #EXTINF:0 group-title="Обо всем" tvg-id="304" tvg-logo="https://iptvx.one/icn/domashny.png",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
 #EXTINF:0 group-title="Обо всем" tvg-id="1810" tvg-logo="https://iptvx.one/icn/super.png",Супер
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_SUPER/variant.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0 group-title="Обо всем" tvg-id="649" tvg-logo="https://static.tvc.ru/assets/img/logo.png?v=135",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:0 group-title="Обо всем" tvg-id="279" tvg-logo="https://iptvx.one/icn/tv3.png",ТВ-3
 http://stream3.kuvalda.tv/hls/tv3.m3u8
 #EXTINF:0 group-title="Обо всем" tvg-id="405" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда
@@ -41,25 +42,25 @@ http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 
 #EXTINF:0 tvg-id="371" tvg-logo="https://iptvx.one/icn/rossia-k.png",Россия Культура
-http://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/variant.m3u8
+https://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/variant.m3u8
 #EXTINF:0 tvg-id="0" tvg-logo="https://iptvx.one/icn/rtr-planeta.png",Россия РТР
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
 #EXTINF:0 tvg-id="1683" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24
-http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
+https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 
 
 ## https://www.ntv.ru/
 #EXTINF:0 group-title="НТВ" tvg-id="162" tvg-logo="https://img2.ntv.ru/img/ntv_air.jpg",НТВ
 #EXTVLCOPT:http-referrer=https://www.ntv.ru/
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:0 group-title="НТВ" tvg-id="1754" tvg-logo="https://img2.ntv.ru/img/ntv_show.jpg",НТВ-Сериал
-http://109.239.208.82:80/ntvserial/index.m3u8
+# http://109.239.208.82:80/ntvserial/index.m3u8 | 403
 #EXTINF:0 group-title="НТВ" tvg-id="1755" tvg-logo="https://img2.ntv.ru/img/ntv_style.jpg",НТВ-Стиль
-http://178.69.23.26:8000/play/36-ntv-ntv-stil-2bdf26e
+# http://178.69.23.26:8000/play/36-ntv-ntv-stil-2bdf26e
 #EXTINF:0 group-title="НТВ" tvg-id="1753" tvg-logo="https://img2.ntv.ru/img/ntv_law.jpg",НТВ-Право
-http://109.239.208.82:80/ntvpravo/playlist.m3u8
+# http://109.239.208.82:80/ntvpravo/playlist.m3u8 | 403
 #EXTINF:0 group-title="НТВ" tvg-id="0" tvg-logo="https://ntvplus.ru/files/image/01/15/16/64k.png",НТВ Хит
-http://178.69.23.26:8000/play/36-ntv-ntv-hit-7df93be
+# http://178.69.23.26:8000/play/36-ntv-ntv-hit-7df93be
 
 
 #EXTINF:0 group-title="Мир ТВ",
@@ -91,11 +92,11 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 ### News / Weather
 #EXTINF:0 group-title="Россия;Русский" tvg-id="1798" tvg-logo="https://iptvx.one/icn/izvestia.png",Известия
-https://raw.githubusercontent.com/edwin61a/test/master/channels/ru99/izvestia.m3u8
+https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:0 group-title="Россия;Русский" tvg-id="23" tvg-logo="https://ru.euronews.com/android-chrome-192x192.png",Евроновости
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:0 group-title="Россия;Погода" tvg-id="59" tvg-logo="http://tele.smotr.online/img/meteo.jpg",Первый метео
-http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
+https://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 
 
 ### Regional
@@ -113,7 +114,7 @@ https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream
 ### Moldovia
 #EXTINF:0 tvg-chno="801" group-title="md",Moldovia
 #EXTINF:0 group-title="Кино" tvg-id="0" tvg-logo="https://teleon.tv/images/logos/ntm_hd.png",HTM HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 
 
@@ -121,34 +122,41 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:0 tvg-chno="811" group-title="by",Belarus
 ## http://belros.tv/
 #EXTINF:0 group-title="Развлечения" tvg-id="730" tvg-logo="http://belros.tv/local/templates/2019/img/logo.png",БелРос / ТРО Союза
-http://live3.mediacdn.ru/sr1/tro/playlist.m3u8
-
+https://live.mediacdn.ru/sr1/tro/playlist.m3u8
+# https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+# https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 
 ### Radio
 ###
-#EXTINF:0 tvg-chno="901" group-title="radio",Radio RU
+#EXTINF:0 group-title="Россия;Русский;радиостанция" tvg-chno="901",Radio RU
+#EXTGRP:Россия;Русский;радиостанция
 ## "http://retrofm.ru/"
-#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM
-http://hls-01-retro.emgsound.ru/12/playlist.m3u8
-#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 70e
-#EXTGRP:Россия;Русский;радиостанция
-http://hls-01-retro70.emgsound.ru/1/playlist.m3u8
-#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 70e
-http://retro70.hostingradio.ru:8025/retro70-128.mp3
-#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM 80e
-http://retro80.hostingradio.ru:8025/retro80-128.mp3
-#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png" group-title="Россия;Русский;радиостанция",Ретро FM 90e
-#EXTGRP:Россия;Русский;радиостанция
-http://retro90.hostingradio.ru:8025/retro90-128.mp3
-#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Вечеринка Ретро FM
-http://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
-#EXTINF:0 radio="true" tgv-id="0" tvg-logo="ru/retrofm.png",Ретро FM Сан-Ремо
-http://hls-01-sanremo.emgsound.ru/5/playlist.m3u8
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm.png",Ретро FM
+https://hls-01-retro.emgsound.ru/12/playlist.m3u8
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_70.png?v=2",Ретро FM 70e
+https://hls-01-retro70.emgsound.ru/1/playlist.m3u8
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_70.png?v=2",Ретро FM 70e
+https://retro70.hostingradio.ru:8025/retro70-128.mp3
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_80.png?v=2",Ретро FM 80e
+https://retro80.hostingradio.ru:8025/retro80-128.mp3
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_90.png?v=2",Ретро FM 90e
+https://retro90.hostingradio.ru:8025/retro90-128.mp3
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_party.png?v=2",Вечеринка Ретро FM
+https://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/ext/logo_rfm_sanremo.png?v=2",Ретро FM Сан-Ремо
+https://hls-01-sanremo.emgsound.ru/5/playlist.m3u8
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/img/logo_ep.svg",Европа Плюс
+#
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/img/logo_ep_top40.svg",Европа Плюс / TOP 40
+#
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://retrofm.ru/online/multiplayer/core/img/logo_ep_party.svg",Европа Плюс / Party
+#
 ##
 ##
-#EXTINF:0 tvg-chno="921" group-title="radio",Radio NL
+#EXTINF:0 group-title="radio" tvg-chno="921",Radio NL
 ## https://www.onlineluisteren.nl/radio-veronica-luisteren.html
-#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://www.radiozenders.fm/media/images/stations-large/radio-veronica.png",VERONICA
-http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://qmusic.nl/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",Q music
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_32.aac
+#EXTINF:0 radio="true" tgv-id="0" tvg-logo="https://www.radiozenders.fm/media/images/stations-large/radio-veronica.png",VERONICA
+# https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+https://21283.live.streamtheworld.com:443/VERONICA.mp3
