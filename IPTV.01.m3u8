@@ -65,7 +65,7 @@ http://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 
 ## https://www.ntv.ru/
 #EXTINF:0 group-title="НТВ" tvg-id="162" tvg-logo="https://img2.ntv.ru/img/ntv_air.jpg",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
 #EXTINF:0 group-title="НТВ" tvg-id="1754" tvg-logo="https://img2.ntv.ru/img/ntv_show.jpg",НТВ-Сериал
 http://109.239.208.82:80/ntvserial/index.m3u8
 #EXTINF:0 group-title="НТВ" tvg-id="1755" tvg-logo="https://img2.ntv.ru/img/ntv_style.jpg",НТВ-Стиль
