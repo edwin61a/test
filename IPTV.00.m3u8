@@ -129,6 +129,10 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.fashiontv.com/
 # https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 
+## Science
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная
+#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=gJcTNmkMdJ4
+plugin://plugin.video.youtube/play/?video_id=gJcTNmkMdJ4
 
 ### Music
 #EXTINF:0 group-title="music" tvg-id="cafemusic" tvg-logo="https://yt3.ggpht.com/a/AATXAJw0bAZxa07czhl_qojz4tpyht9RaD1tTdR9hqeqMw=s88-c-k-c0x00ffffff-no-rj",Rainy Jazz
