@@ -73,7 +73,7 @@ https://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/variant.m3u8
 #EXTINF:0 group-title="Россия" tvg-id="1683" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24
 https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 # https://www.youtube.com/watch?v=8T9SFZDP60Q
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://iptvx.one/icn/moskva-24.png",Москва 24
+#EXTINF:0 group-title="Россия" tvg-id="334" tvg-logo="https://iptvx.one/icn/moskva-24.png",Москва 24
 # https://www.youtube.com/watch?v=NH7wu_O0hMc
 
 #EXTINF:0 group-title="Обо всем" tvg-id="649" tvg-logo="https://static.tvc.ru/assets/img/logo.png?v=135",ТВЦ
@@ -105,7 +105,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 https://live-1.otcnet.ru/kaleidoskop/playlist.m3u8
 # http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 
-#EXTINF:0 group-title="Россия" tvg-id="933" tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png",Настоящее Время
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png",Настоящее Время
 #EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=8T9SFZDP60Q
 plugin://plugin.video.youtube/play/?video_id=8T9SFZDP60Q
 
@@ -129,10 +129,27 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.fashiontv.com/
 # https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 
+
 ## Science
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #1
 #EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=gJcTNmkMdJ4
 plugin://plugin.video.youtube/play/?video_id=gJcTNmkMdJ4
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #2
+#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=0uIszT7jOI4
+plugin://plugin.video.youtube/play/?video_id=0uIszT7jOI4
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #3
+#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=ZY98EUIGdO8
+plugin://plugin.video.youtube/play/?video_id=ZY98EUIGdO8
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #4
+#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=g2O1wajU5sE
+plugin://plugin.video.youtube/play/?video_id=g2O1wajU5sE
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #5
+#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=diO_lANGGbk
+plugin://plugin.video.youtube/play/?video_id=diO_lANGGbk
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #6
+#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=Cf6iVuHRpsU
+plugin://plugin.video.youtube/play/?video_id=Cf6iVuHRpsU
+
 
 ### Music
 #EXTINF:0 group-title="music" tvg-id="cafemusic" tvg-logo="https://yt3.ggpht.com/a/AATXAJw0bAZxa07czhl_qojz4tpyht9RaD1tTdR9hqeqMw=s88-c-k-c0x00ffffff-no-rj",Rainy Jazz
