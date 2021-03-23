@@ -30,7 +30,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/variant.m3u8
 
 #EXTINF:0 group-title="Обо всем" tvg-id="689" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
 #EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=cgecsG2lhiA
-plugin://plugin.video.youtube/play/?video_id=cgecsG2lhiA
+# plugin://plugin.video.youtube/play/?video_id=cgecsG2lhiA
 # EXTVLCOPT:http-referrer=https://ren.tv/
 # EXTVLCOPT:http-user-agent=smartlabs
 # https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
