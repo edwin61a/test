@@ -151,12 +151,6 @@ plugin://plugin.video.youtube/play/?video_id=diO_lANGGbk
 plugin://plugin.video.youtube/play/?video_id=Cf6iVuHRpsU
 
 
-### Music
-#EXTINF:0 group-title="music" tvg-id="cafemusic" tvg-logo="https://yt3.ggpht.com/a/AATXAJw0bAZxa07czhl_qojz4tpyht9RaD1tTdR9hqeqMw=s88-c-k-c0x00ffffff-no-rj",Rainy Jazz
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=DSGyEsJ17cI
-plugin://plugin.video.youtube/play/?video_id=DSGyEsJ17cI
-
-
 ### News / Weather
 #EXTINF:0 group-title="Россия" tvg-id="1798" tvg-logo="https://iptvx.one/icn/izvestia.png",Известия
 #EXTVLCOPT:http-referrer=https://iz.ru/
@@ -200,6 +194,11 @@ https://live.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:0 group-title="Россия" tvg-id="1871" tvg-logo="https://epg.iptvx.one/icn/muzsoyuz.png",МузСоюз
 #EXTVLCOPT:http-referrer=
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+### Music
+#EXTINF:0 group-title="music" tvg-id="cafemusic" tvg-logo="https://yt3.ggpht.com/a/AATXAJw0bAZxa07czhl_qojz4tpyht9RaD1tTdR9hqeqMw=s88-c-k-c0x00ffffff-no-rj",Rainy Jazz
+#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=DSGyEsJ17cI
+plugin://plugin.video.youtube/play/?video_id=DSGyEsJ17cI
 
 
 ### Radio
