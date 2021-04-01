@@ -130,27 +130,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 # https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 
 
-## Science
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #1
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=gJcTNmkMdJ4
-plugin://plugin.video.youtube/play/?video_id=gJcTNmkMdJ4
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #2
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=0uIszT7jOI4
-plugin://plugin.video.youtube/play/?video_id=0uIszT7jOI4
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #3
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=ZY98EUIGdO8
-plugin://plugin.video.youtube/play/?video_id=ZY98EUIGdO8
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #4
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=g2O1wajU5sE
-plugin://plugin.video.youtube/play/?video_id=g2O1wajU5sE
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #5
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=diO_lANGGbk
-plugin://plugin.video.youtube/play/?video_id=diO_lANGGbk
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #6
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=Cf6iVuHRpsU
-plugin://plugin.video.youtube/play/?video_id=Cf6iVuHRpsU
-
-
 ### News / Weather
 #EXTINF:0 group-title="Россия" tvg-id="1798" tvg-logo="https://iptvx.one/icn/izvestia.png",Известия
 #EXTVLCOPT:http-referrer=https://iz.ru/
