@@ -1,11 +1,12 @@
 #EXTM3U
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
-#EXTINF:0 group-title="Россия" tvg-id="146" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001600801d5c4aa045cec97f5f97429/orig",Первый канал
+#EXTINF:0 group-title="Россия" tvg-id="146" tvg-logo="https://epg.iptvx.one/icn/pervyj.png",Первый канал
 #EXTVLCOPT:http-referrer=https://www.1tv.ru/live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-# http://188.35.9.26:6051/udp/238.0.6.1:69000
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+https://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash1.mpd
 
 #EXTINF:0 group-title="Россия" tvg-id="317" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a000001600801ff1c768e131f61bc108ce4/orig",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
