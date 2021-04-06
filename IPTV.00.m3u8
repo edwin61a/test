@@ -153,7 +153,11 @@ https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:0 group-title="Россия" tvg-id="690" tvg-logo="spb.png",Санкт-Петербург
 ## https://live-topspb.cdnvideo.ru/topspb/topspb.smil/playlist.m3u8  ## 403 Forbidden
 #EXTINF:0 group-title="Россия" tvg-id="1398" tvg-logo="https://static.piter.tv/img/lentv/lentv24_logo_white-h40.png",ЛенТВ24
-https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream_all/playlist.m3u8
+# https://47channel.ru/on_air/
+# https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream_all/playlist.m3u8
+# https://ok.ru/video/1436608962297
+# https://ok.ru/videoembed/1436608962297?nochat=1
+# https://i.mycdn.me/videoPreview?mid=1436608962297&type=37&tkn=KWBwhB8jllUspYNrSQDnEafQQ88&fn=external_8
 #EXTINF:0 group-title="Россия" tvg-id="812" tvg-logo="https://iptvx.one/icn/78.png",78 канал
 ##
 
