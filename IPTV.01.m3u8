@@ -1,7 +1,10 @@
 #EXTM3U
 ## tvguide: -
 
-#EXTINF:0 group-title="BBC" tvg-id="0" tvg-logo="",BBC 2
+#EXTINF:0 group-title="NL" tvg-id="no_epg" tvg-logo="",AT5 (Amsterdam TV)
+# https://ngx.cr1.streamzilla.xlcdn.com/session/00d6873551985de9be3bf63bfaf6d40c/sz/atvijf/wowza4/live/live.smil/playlist.m3u8
+
+#EXTINF:0 group-title="BBC" tvg-id="no_epg" tvg-logo="",BBC 2
 #EXTVLCOPT:http-referrer=
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
