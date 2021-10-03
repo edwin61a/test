@@ -1,13 +1,19 @@
 #EXTM3U
 ## tvguide: http://programtv.ru/xlmtv.xml.gz
 
-#EXTINF:0 group-title="Россия" tvg-id="146" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001600801d5c4aa045cec97f5f97429/orig",Первый канал
+#EXTINF:0 group-title="Россия" tvg-id="146" tvg-logo="https://epg.iptvx.one/icn/pervyj.png",Первый канал
 #EXTVLCOPT:http-referrer=https://www.1tv.ru/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://
-# http://188.35.9.26:6051/udp/238.0.6.1:69000
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+https://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash1.mpd
+# https://edge2.1internet.tv/dash-live11/streams/1tv/1tvdash1.mpd
+# https://edge3.1internet.tv/dash-live11/streams/1tv/1tvdash1.mpd
+# https://cdn2.1internet.tv/dash-live11/streams/1tv/1tvdash1.mpd
+# /storage/emulated/0/Downloads/iptv/channels/ru03/01.perviy_HD.00.m3u8
 
-#EXTINF:0 group-title="Россия" tvg-id="317" tvg-logo="http://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a000001600801ff1c768e131f61bc108ce4/orig",Россия 1
+#EXTINF:0 group-title="Россия" tvg-id="317" tvg-logo="https://iptvx.one/icn/rossia1.png",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 # https://www.youtube.com/watch?v=FCqPCFMS860
 
@@ -73,6 +79,8 @@ https://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/variant.m3u8
 #EXTINF:0 group-title="Россия" tvg-id="1683" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24
 https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 # https://www.youtube.com/watch?v=8T9SFZDP60Q
+# https://youtu.be/8T9SFZDP60Q
+
 #EXTINF:0 group-title="Россия" tvg-id="334" tvg-logo="https://iptvx.one/icn/moskva-24.png",Москва 24
 # https://www.youtube.com/watch?v=NH7wu_O0hMc
 
@@ -104,10 +112,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://www.kaleidoskoptv.tv/online/
 https://live-1.otcnet.ru/kaleidoskop/playlist.m3u8
 # http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png",Настоящее Время
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=8T9SFZDP60Q
-plugin://plugin.video.youtube/play/?video_id=8T9SFZDP60Q
 
 #EXTINF:0 group-title="Россия" tvg-id="933" tvg-logo="https://teleon.tv/images/logos/tnv-planeta.jpg",ТНВ Планета
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
@@ -158,7 +162,13 @@ https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:0 group-title="Россия" tvg-id="23" tvg-logo="https://iptvx.one/icn/euronews-en.png",Евроновости
 #EXTVLCOPT:http-referrer=https://ru.euronews.com/live
 https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-id="23" tvg-logo="https://iptvx.one/icn/euronews-en.png",Евроновости
 #EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=WiB69tJIAU4
+# plugin://plugin.video.youtube/play/?video_id=WiB69tJIAU4
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png",Настоящее Время
+#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=i_OzppNpK5U
+plugin://plugin.video.youtube/play/?video_id=i_OzppNpK5U
+# https://youtu.be/i_OzppNpK5U
 
 #EXTINF:0 group-title="News" tvg-id="cnn" tvg-logo="https://epg.iptvx.one/icn/cnn.png",CNN
 # https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/de/master.m3u8?__b__=650
