@@ -15,12 +15,16 @@ https://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash1.mpd
 
 #EXTINF:0 group-title="Россия" tvg-id="317" tvg-logo="https://iptvx.one/icn/rossia1.png",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
+# https://a1566400114-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+# https://a3569456481-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 # https://www.youtube.com/watch?v=FCqPCFMS860
 
 
 #EXTINF:0 group-title="Россия" tvg-id="447" tvg-logo="http://spastv.ru/wp-content/uploads/2018/07/logo-1.png",Спас ТВ
-#EXTVLCOPT:http-referrer=
-https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://spastv.ru
+https://mediavitrina6.cdn.gblnet.ru/dash-live1/streams/spas/spas.mpd
+# https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+# http://spastv.ru/playlist.m3u8
 
 #EXTINF:0 group-title="Россия" tvg-id="349" tvg-logo="https://tv-soyuz.ru/static/img/logo.png",Союз
 #EXTVLCOPT:http-referrer=https://tv-soyuz.ru/tvprogramma
@@ -28,10 +32,10 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 
 #EXTINF:0 group-title="Россия" tvg-id="675" tvg-logo="https://iptvx.one/icn/moya-planeta.png",Моя Планета
-#EXTVLCOPT:http-referrer=
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/variant.m3u8
+# EXTVLCOPT:http-referrer=
+# http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/variant.m3u8
 # https://a1566400114-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
-# https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
+https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/variant.m3u8
 
 
 #EXTINF:0 group-title="Обо всем" tvg-id="689" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ
@@ -48,7 +52,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/variant.m3u8
 # https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
 #EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=dI4jr5HyuT0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-plugin://plugin.video.youtube/play/?video_id=dI4jr5HyuT0
+# plugin://plugin.video.youtube/play/?video_id=dI4jr5HyuT0
 
 #EXTINF:0 group-title="Обо всем" tvg-id="79" tvg-logo="https://epg.iptvx.one/icn/sts.png",СТС
 # EXTVLCOPT:http-referrer=https://www.ctc.ru/
@@ -78,10 +82,13 @@ https://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/variant.m3u8
 https://a1566400114-s26881.cdn.ngenix.net/live/smil:rk.smil/variant.m3u8
 #EXTINF:0 group-title="Россия" tvg-id="1683" tvg-logo="https://iptvx.one/icn/rossia24.png",Россия 24
 https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
+# https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8, https://cl-1b25e6e4.gcdn.co/hls/russia_24/playlist.m3u8
 # https://www.youtube.com/watch?v=8T9SFZDP60Q
 # https://youtu.be/8T9SFZDP60Q
 
 #EXTINF:0 group-title="Россия" tvg-id="334" tvg-logo="https://iptvx.one/icn/moskva-24.png",Москва 24
+# https://a1566400114-s26881.cdn.ngenix.net/live/smil:m24.smil/variant.m3u8
+# https://a3569456481-s26881.cdn.ngenix.net/live/smil:m24.smil/variant.m3u8
 # https://www.youtube.com/watch?v=NH7wu_O0hMc
 
 #EXTINF:0 group-title="Обо всем" tvg-id="649" tvg-logo="https://static.tvc.ru/assets/img/logo.png?v=135",ТВЦ
@@ -93,7 +100,8 @@ https://a1566400114-s26881.cdn.ngenix.net/live/smil:r24.smil/variant.m3u8
 # http://stream3.kuvalda.tv/hls/tv3.m3u8
 
 #EXTINF:0 group-title="Обо всем" tvg-id="405" tvg-logo="https://iptvx.one/icn/zvezda.png",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+https://tvchannelstream0.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+# https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:0 group-title="Мир ТВ",
 ## http://www.mirtv.ru/
@@ -126,34 +134,15 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:0 group-title="мода;Украина;Германия" tvg-id="hdfashion-lifestyle" tvg-logo="https://epg.iptvx.one/icn/hdfashion-lifestyle.png",HD Fashion & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:0 group-title="мода" tvg-id="661" tvg-logo="https://epg.iptvx.one/icn/fashion-tv.png",Fashion TV
+#EXTINF:0 group-title="мода" tvg-id="661" tvg-logo="https://epg.iptvx.one/icn/fashion-tv.png",FashionTV International
 #EXTVLCOPT:http-referrer=https://www.fashiontv.com/
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/media.m3u8
 # https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:0 group-title="Fashion;мода" tvg-id="fashion-tv-eu" tvg-logo="https://epg.iptvx.one/icn/fashion-tv.png",Fashion TV Europe
 #EXTVLCOPT:http-referrer=https://www.fashiontv.com/
 # https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-
-
-## Science
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #1
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=gJcTNmkMdJ4
-plugin://plugin.video.youtube/play/?video_id=gJcTNmkMdJ4
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #2
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=0uIszT7jOI4
-plugin://plugin.video.youtube/play/?video_id=0uIszT7jOI4
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #3
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=ZY98EUIGdO8
-plugin://plugin.video.youtube/play/?video_id=ZY98EUIGdO8
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #4
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=g2O1wajU5sE
-plugin://plugin.video.youtube/play/?video_id=g2O1wajU5sE
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #5
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=diO_lANGGbk
-plugin://plugin.video.youtube/play/?video_id=diO_lANGGbk
-#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_RzVli1JcYcFfHglaBWDusqlRXrtZzs-4Zxq-=s48-c-k-c0x00ffffff-no-rj",Как устроена Вселенная #6
-#EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=Cf6iVuHRpsU
-plugin://plugin.video.youtube/play/?video_id=Cf6iVuHRpsU
-
+#EXTINF:0 group-title="Fashion;мода" tvg-id="0" tvg-logo="https://www.fulltv24.com/files/image/global-fashion-channel-us.png",Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 ### News / Weather
 #EXTINF:0 group-title="Россия" tvg-id="1798" tvg-logo="https://iptvx.one/icn/izvestia.png",Известия
@@ -183,9 +172,15 @@ plugin://plugin.video.youtube/play/?video_id=i_OzppNpK5U
 #EXTINF:0 group-title="Россия" tvg-id="690" tvg-logo="spb.png",Санкт-Петербург
 ## https://live-topspb.cdnvideo.ru/topspb/topspb.smil/playlist.m3u8  ## 403 Forbidden
 #EXTINF:0 group-title="Россия" tvg-id="1398" tvg-logo="https://static.piter.tv/img/lentv/lentv24_logo_white-h40.png",ЛенТВ24
-https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream_all/playlist.m3u8
+# https://47channel.ru/on_air/
+# https://lvms01.inmedis.ru:4443/videowhisper/ngrp:47channel_live_broadcast.stream_all/playlist.m3u8
+# https://ok.ru/video/1436608962297
+# https://ok.ru/videoembed/1436608962297?nochat=1
+# https://i.mycdn.me/videoPreview?mid=1436608962297&type=37&tkn=KWBwhB8jllUspYNrSQDnEafQQ88&fn=external_8
 #EXTINF:0 group-title="Россия" tvg-id="812" tvg-logo="https://iptvx.one/icn/78.png",78 канал
 ##
+#EXTINF:0 group-title="Россия" tvg-id="0" tvg-logo="https://www.fulltv24.com/files/image/yamal_region_ru_tv.png",Ямал ТВ
+https://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc.smil/playlist.m3u8
 
 ### Mordovia
 #EXTINF:0 group-title="-" tvg-chno="801",Mordovia
@@ -206,6 +201,11 @@ https://live.mediacdn.ru/sr1/tro/playlist.m3u8
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 ### Music
+#EXTINF:0 group-title="music" tvg-id="europa-plus-tv" tvg-logo="https://iptvx.one/icn/europa-plus.png",Европа Плюс ТВ
+#EXTINF:0 group-title="music" tvg-id="681" tvg-logo="http://europaplustv.com/images/europa_tv.png",Европа Плюс ТВ
+#EXTVLCOPT:http-referrer=https://europaplustv.com/playlist
+https://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/playlist.m3u8?md5=0MpuXSM_UfGmp4o-OB-H-g&e=1618329280&zoid=web
+
 #EXTINF:0 group-title="music" tvg-id="cafemusic" tvg-logo="https://yt3.ggpht.com/a/AATXAJw0bAZxa07czhl_qojz4tpyht9RaD1tTdR9hqeqMw=s88-c-k-c0x00ffffff-no-rj",Rainy Jazz
 #EXTVLCOPT:http-referrer=https://www.youtube.com/watch?v=DSGyEsJ17cI
 plugin://plugin.video.youtube/play/?video_id=DSGyEsJ17cI
