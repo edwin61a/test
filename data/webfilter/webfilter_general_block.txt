@@ -1,1 +1,4 @@
+! Title: Private Malicious URL Blocklist
+!
+https://assets.poool.fr/vendor-audit.min.js
 /top_ad.$~xmlhttprequest,domain=~sunco.co.jp
