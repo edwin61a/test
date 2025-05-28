@@ -10,4 +10,5 @@
 !------------------------General element hiding rules-------------------------!
 %include easylist:webfilter/webfilter_general_hide.txt%
 ##.c-ad__placeholder
+##.c-footer-sitemap
 %include easylist:webfilter/webfilter_allowlist_general_hide.txt%
