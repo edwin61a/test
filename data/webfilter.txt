@@ -9,5 +9,5 @@
 %include easylist:webfilter/webfilter_general_block_popup.txt%
 !------------------------General element hiding rules-------------------------!
 %include easylist:webfilter/webfilter_general_hide.txt%
-###c-ad__placeholder
+##.c-ad__placeholder
 %include easylist:webfilter/webfilter_allowlist_general_hide.txt%
