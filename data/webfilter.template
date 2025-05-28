@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: EasyList
+! Last modified: %timestamp%
+! Expires: 30 days (update frequency)
+!
+!-----------------------General advert blocking filters-----------------------!
+%include easylist:webfilter/webfilter_general_block.txt%
+%include easylist:webfilter/webfilter_general_block_dimensions.txt%
+%include easylist:webfilter/webfilter_general_block_popup.txt%
+!------------------------General element hiding rules-------------------------!
+%include easylist:webfilter/webfilter_general_hide.txt%
+%include easylist:webfilter/webfilter_allowlist_general_hide.txt%
