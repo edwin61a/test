@@ -4,11 +4,11 @@
 ! Expires: 30 days (update frequency)
 !
 !-----------------------General advert blocking filters-----------------------!
-%include easylist:webfilter/webfilter_general_block.txt%
-%include easylist:webfilter/webfilter_general_block_dimensions.txt%
-%include easylist:webfilter/webfilter_general_block_popup.txt%
+!%include easylist:webfilter/webfilter_general_block.txt%
+!%include easylist:webfilter/webfilter_general_block_dimensions.txt%
+!%include easylist:webfilter/webfilter_general_block_popup.txt%
 !------------------------General element hiding rules-------------------------!
-%include easylist:webfilter/webfilter_general_hide.txt%
-##.c-ad__placeholder
-##.c-footer-sitemap
-%include easylist:webfilter/webfilter_allowlist_general_hide.txt%
+!%include easylist:webfilter/webfilter_general_hide.txt%
+euronews.com##.c-ad__placeholder
+euronews.com##.c-footer-sitemap
+!%include easylist:webfilter/webfilter_allowlist_general_hide.txt%
