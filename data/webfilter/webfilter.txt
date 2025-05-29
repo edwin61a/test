@@ -9,6 +9,9 @@
 !%include easylist:webfilter/webfilter_general_block_popup.txt%
 !------------------------General element hiding rules-------------------------!
 !%include easylist:webfilter/webfilter_general_hide.txt%
+!!euronews.com##body div.c-article-content:style(overflow: hidden !important) !!element.style --widget_related_list_trans height
+euronews.com##.c-article-content:style(overflow: hidden !important)
 euronews.com##.c-ad__placeholder
 euronews.com##.c-footer-sitemap
+euronews.com###connatix-container
 !%include easylist:webfilter/webfilter_allowlist_general_hide.txt%
